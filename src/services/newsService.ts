@@ -60,6 +60,17 @@ const simulateAISummary = (item: any, category: string): Partial<NewsItem> => {
         };
     }
 
+    // Custom logic for MIT Technology Review (AI)
+    if (category === 'AI') {
+        return {
+            titleKoran: `[MIT 분석] ${title}`,
+            oneLineSummary: cleanSnippet ? (cleanSnippet.length > 80 ? cleanSnippet.slice(0, 80) + '...' : cleanSnippet) : '인공지능 기술의 미래와 사회적 영향에 대한 MIT 테크놀로지 리뷰의 권위 있는 분석입니다.',
+            context: `${title}에 관한 MIT 테크놀로지 리뷰의 최신 AI 기술 트렌드 심층 보도입니다.`,
+            whyImportant: '이 기술의 발전 방향이 정보 기술 생태계와 국가별 기술 주권에 중대한 변곡점이 될 수 있기 때문입니다.',
+            meaningForWork: 'IT 전략 기획자나 기술 실무자라면 해당 기술의 상용화 로드맵과 인프라 효율성을 자사 서비스에 투영하여 전략을 재수립해야 합니다.',
+        };
+    }
+
     return {
         titleKoran: `[실시간] ${title}`,
         oneLineSummary: cleanSnippet ? (cleanSnippet.length > 80 ? cleanSnippet.slice(0, 80) + '...' : cleanSnippet) : '직장인을 위한 핵심 비즈니스 요약입니다.',
@@ -108,7 +119,7 @@ export const fetchLatestNews = async (category: string): Promise<NewsItem[]> => 
             return {
                 id: `realtime-${category}-${Date.now()}-${index}`,
                 category: category as 'AI' | 'Robot' | 'Bio' | 'EdTech',
-                source: category === 'Bio' ? 'STAT News' : (category === 'EdTech' ? 'EdSurge' : (feed.title || category)),
+                source: category === 'Bio' ? 'STAT News' : (category === 'EdTech' ? 'EdSurge' : (category === 'AI' ? 'MIT Technology Review' : (feed.title || category))),
                 titleKoran: summary.titleKoran || '[제목 없음]',
                 oneLineSummary: summary.oneLineSummary || '[요약 없음]',
                 context: summary.context || '[내용 없음]',

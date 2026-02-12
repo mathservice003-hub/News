@@ -61,7 +61,7 @@ function App() {
 
   const getFilteredAndLimitedNews = () => {
     if (activeCategory === 'All') {
-      const ai = newsList.filter(n => n.category === 'AI').slice(0, 3);
+      const ai = newsList.filter(n => n.category === 'AI' && n.source === 'MIT Technology Review').slice(0, 3);
       const robot = newsList.filter(n => n.category === 'Robot').slice(0, 3);
       const bio = newsList.filter(n => n.category === 'Bio' && n.source === 'STAT News').slice(0, 3);
       const edtech = newsList.filter(n => n.category === 'EdTech' && n.source === 'EdSurge').slice(0, 3);
@@ -76,6 +76,9 @@ function App() {
       }
       if (activeCategory === 'EdTech') {
         filtered = filtered.filter(n => n.source === 'EdSurge');
+      }
+      if (activeCategory === 'AI') {
+        filtered = filtered.filter(n => n.source === 'MIT Technology Review');
       }
       return filtered.slice(0, 3);
     }
