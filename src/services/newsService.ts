@@ -49,6 +49,17 @@ const simulateAISummary = (item: any, category: string): Partial<NewsItem> => {
         };
     }
 
+    // Custom logic for EdSurge (EdTech)
+    if (category === 'EdTech') {
+        return {
+            titleKoran: `[EdSurge 리포트] ${title}`,
+            oneLineSummary: cleanSnippet ? (cleanSnippet.length > 80 ? cleanSnippet.slice(0, 80) + '...' : cleanSnippet) : '글로벌 에듀테크 트렌드와 교육 현장의 변화에 대한 EdSurge의 전문 보도입니다.',
+            context: `${title}에 관한 EdSurge의 최신 교육 기술 트렌드 분석입니다.`,
+            whyImportant: '교육과 기술의 결합이 학습 효율과 미래 인재상에 미치는 영향이 매우 크기 때문에 주목해야 합니다.',
+            meaningForWork: '교육 기획 및 서비스 실무자라면 해당 기술이 실제 학습 환경에 미칠 긍정적/부정적 영향을 입체적으로 검토해야 합니다.',
+        };
+    }
+
     return {
         titleKoran: `[실시간] ${title}`,
         oneLineSummary: cleanSnippet ? (cleanSnippet.length > 80 ? cleanSnippet.slice(0, 80) + '...' : cleanSnippet) : '직장인을 위한 핵심 비즈니스 요약입니다.',
@@ -63,7 +74,6 @@ export const fetchLatestNews = async (category: string): Promise<NewsItem[]> => 
         const feedConfig = FEEDS[category as keyof typeof FEEDS];
         if (!feedConfig) return [];
 
-        // RSS fetch via proxy with explicit User-Agent
         const response = await fetch(PROXY_URL + encodeURIComponent(feedConfig.rss), {
             headers: {
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
@@ -81,10 +91,8 @@ export const fetchLatestNews = async (category: string): Promise<NewsItem[]> => 
         return feed.items.slice(0, 3).map((item, index) => {
             const summary = simulateAISummary(item, category);
 
-            // Handle STAT News specific link properties or guid
             let finalUrl = item.link || item.guid || '';
 
-            // Fix relative or protocol-less URLs
             if (finalUrl) {
                 finalUrl = finalUrl.trim();
                 if (finalUrl.startsWith('//')) {
@@ -92,8 +100,6 @@ export const fetchLatestNews = async (category: string): Promise<NewsItem[]> => 
                 } else if (finalUrl.startsWith('/')) {
                     finalUrl = `${feedConfig.base}${finalUrl}`;
                 } else if (!finalUrl.startsWith('http')) {
-                    // If it doesn't start with http, and it's not a path (doesn't start with /), 
-                    // we check if it looks like a path and append base
                     const separator = finalUrl.startsWith('/') ? '' : '/';
                     finalUrl = `${feedConfig.base}${separator}${finalUrl}`;
                 }
@@ -102,7 +108,7 @@ export const fetchLatestNews = async (category: string): Promise<NewsItem[]> => 
             return {
                 id: `realtime-${category}-${Date.now()}-${index}`,
                 category: category as 'AI' | 'Robot' | 'Bio' | 'EdTech',
-                source: category === 'Bio' ? 'STAT News' : (feed.title || category),
+                source: category === 'Bio' ? 'STAT News' : (category === 'EdTech' ? 'EdSurge' : (feed.title || category)),
                 titleKoran: summary.titleKoran || '[제목 없음]',
                 oneLineSummary: summary.oneLineSummary || '[요약 없음]',
                 context: summary.context || '[내용 없음]',
@@ -114,7 +120,6 @@ export const fetchLatestNews = async (category: string): Promise<NewsItem[]> => 
         });
     } catch (error) {
         console.error(`Fetch Error (${category}):`, error);
-        // Fallback to local JSON if RSS fails
         const mappedCategory = CATEGORY_MAP[category] || category;
         return (initialNewsData as any[]).filter(item => item.category === mappedCategory).slice(0, 3);
     }

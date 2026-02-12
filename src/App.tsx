@@ -64,7 +64,7 @@ function App() {
       const ai = newsList.filter(n => n.category === 'AI').slice(0, 3);
       const robot = newsList.filter(n => n.category === 'Robot').slice(0, 3);
       const bio = newsList.filter(n => n.category === 'Bio' && n.source === 'STAT News').slice(0, 3);
-      const edtech = newsList.filter(n => n.category === 'EdTech').slice(0, 3);
+      const edtech = newsList.filter(n => n.category === 'EdTech' && n.source === 'EdSurge').slice(0, 3);
 
       return [...ai, ...robot, ...bio, ...edtech].sort((a, b) =>
         new Date(b.date).getTime() - new Date(a.date).getTime()
@@ -73,6 +73,9 @@ function App() {
       let filtered = newsList.filter(n => n.category === activeCategory);
       if (activeCategory === 'Bio') {
         filtered = filtered.filter(n => n.source === 'STAT News');
+      }
+      if (activeCategory === 'EdTech') {
+        filtered = filtered.filter(n => n.source === 'EdSurge');
       }
       return filtered.slice(0, 3);
     }
