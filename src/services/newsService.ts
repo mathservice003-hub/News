@@ -6,19 +6,23 @@ const PROXY_URL = 'https://api.allorigins.win/raw?url=';
 const FEEDS = {
     EdTech: {
         rss: 'https://www.edsurge.com/news/rss',
-        base: 'https://www.edsurge.com'
+        base: 'https://www.edsurge.com',
+        sourceName: 'EdSurge'
     },
     AI: {
         rss: 'https://www.technologyreview.com/feed/',
-        base: 'https://www.technologyreview.com'
+        base: 'https://www.technologyreview.com',
+        sourceName: 'MIT Technology Review'
     },
     Robot: {
         rss: 'https://www.therobotreport.com/feed/',
-        base: 'https://www.therobotreport.com'
+        base: 'https://www.therobotreport.com',
+        sourceName: 'The Robot Report'
     },
     Bio: {
         rss: 'https://www.statnews.com/category/pharma/feed/',
-        base: 'https://www.statnews.com'
+        base: 'https://www.statnews.com',
+        sourceName: 'STAT News'
     }
 };
 
@@ -99,7 +103,7 @@ export const fetchLatestNews = async (category: string): Promise<NewsItem[]> => 
         const parser = new Parser();
         const feed = await parser.parseString(xml);
 
-        return feed.items.slice(0, 3).map((item, index) => {
+        return feed.items.slice(0, 5).map((item, index) => {
             const summary = simulateAISummary(item, category);
 
             let finalUrl = item.link || item.guid || '';
@@ -119,7 +123,7 @@ export const fetchLatestNews = async (category: string): Promise<NewsItem[]> => 
             return {
                 id: `realtime-${category}-${Date.now()}-${index}`,
                 category: category as 'AI' | 'Robot' | 'Bio' | 'EdTech',
-                source: category === 'Bio' ? 'STAT News' : (category === 'EdTech' ? 'EdSurge' : (category === 'AI' ? 'MIT Technology Review' : (feed.title || category))),
+                source: feedConfig.sourceName,
                 titleKoran: summary.titleKoran || '[제목 없음]',
                 oneLineSummary: summary.oneLineSummary || '[요약 없음]',
                 context: summary.context || '[내용 없음]',

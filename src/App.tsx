@@ -17,10 +17,26 @@ function App() {
   const [isSyncing, setIsSyncing] = useState(false);
   const [hasInitialSynced, setHasInitialSynced] = useState(false);
 
+  // Constants for sources
+  const SOURCES = {
+    AI: 'MIT Technology Review',
+    EDTECH: 'EdSurge',
+    BIO: 'STAT News',
+    ROBOT: 'The Robot Report'
+  };
+
   // Initialize data and trigger auto-sync on mount
   useEffect(() => {
-    const combined = [...(newsSourceData as NewsItem[])];
-    const unique = Array.from(new Map(combined.map(item => [item.originalUrl, item])).values());
+    const rawData = newsSourceData as NewsItem[];
+    // Filter initial data to ensure it matches current source requirements
+    const filteredInitial = rawData.filter(n => {
+      if (n.category === 'AI') return n.source === SOURCES.AI;
+      if (n.category === 'EdTech') return n.source === SOURCES.EDTECH;
+      if (n.category === 'Bio') return n.source === SOURCES.BIO;
+      return true; // Robot is currently open, or follows general rules
+    });
+
+    const unique = Array.from(new Map(filteredInitial.map(item => [item.originalUrl, item])).values());
     setNewsList(unique.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()));
 
     // Auto-sync for real-time news on first load
@@ -40,7 +56,14 @@ function App() {
       if (flattened.length > 0) {
         setNewsList(prev => {
           const combined = [...flattened, ...prev];
-          const unique = Array.from(new Map(combined.map(item => [item.originalUrl, item])).values());
+          // Filter out anything that doesn't match the required sources for each category
+          const sourceFiltered = combined.filter(n => {
+            if (n.category === 'AI') return n.source === SOURCES.AI;
+            if (n.category === 'EdTech') return n.source === SOURCES.EDTECH;
+            if (n.category === 'Bio') return n.source === SOURCES.BIO;
+            return true;
+          });
+          const unique = Array.from(new Map(sourceFiltered.map(item => [item.originalUrl, item])).values());
           return unique.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
         });
       }
@@ -60,28 +83,34 @@ function App() {
   ];
 
   const getFilteredAndLimitedNews = () => {
+    // Basic filter by category
+    const categoryFiltered = activeCategory === 'All'
+      ? newsList
+      : newsList.filter(n => n.category === activeCategory);
+
+    // Apply source restriction to each category regardless of view
+    const sourceRestrestricted = categoryFiltered.filter(n => {
+      if (n.category === 'AI') return n.source === SOURCES.AI;
+      if (n.category === 'EdTech') return n.source === SOURCES.EDTECH;
+      if (n.category === 'Bio') return n.source === SOURCES.BIO;
+      if (n.category === 'Robot') return n.source === SOURCES.ROBOT;
+      return true;
+    });
+
     if (activeCategory === 'All') {
-      const ai = newsList.filter(n => n.category === 'AI' && n.source === 'MIT Technology Review').slice(0, 3);
-      const robot = newsList.filter(n => n.category === 'Robot').slice(0, 3);
-      const bio = newsList.filter(n => n.category === 'Bio' && n.source === 'STAT News').slice(0, 3);
-      const edtech = newsList.filter(n => n.category === 'EdTech' && n.source === 'EdSurge').slice(0, 3);
+      // In 'All' view, we want 3 from each restricted category
+      const ai = sourceRestrestricted.filter(n => n.category === 'AI').slice(0, 3);
+      const robot = sourceRestrestricted.filter(n => n.category === 'Robot').slice(0, 3);
+      const bio = sourceRestrestricted.filter(n => n.category === 'Bio').slice(0, 3);
+      const edtech = sourceRestrestricted.filter(n => n.category === 'EdTech').slice(0, 3);
 
       return [...ai, ...robot, ...bio, ...edtech].sort((a, b) =>
         new Date(b.date).getTime() - new Date(a.date).getTime()
       );
-    } else {
-      let filtered = newsList.filter(n => n.category === activeCategory);
-      if (activeCategory === 'Bio') {
-        filtered = filtered.filter(n => n.source === 'STAT News');
-      }
-      if (activeCategory === 'EdTech') {
-        filtered = filtered.filter(n => n.source === 'EdSurge');
-      }
-      if (activeCategory === 'AI') {
-        filtered = filtered.filter(n => n.source === 'MIT Technology Review');
-      }
-      return filtered.slice(0, 3);
     }
+
+    // In specific category view, just take the top 3 (after source filtering)
+    return sourceRestrestricted.slice(0, 3);
   };
 
   const displayNews = getFilteredAndLimitedNews();
