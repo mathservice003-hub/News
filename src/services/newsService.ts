@@ -1,0 +1,121 @@
+import type { NewsItem } from '../data/mockData';
+import initialNewsData from '../data/news.json';
+
+const PROXY_URL = 'https://api.allorigins.win/raw?url=';
+
+const FEEDS = {
+    EdTech: {
+        rss: 'https://www.edsurge.com/news/rss',
+        base: 'https://www.edsurge.com'
+    },
+    AI: {
+        rss: 'https://www.technologyreview.com/feed/',
+        base: 'https://www.technologyreview.com'
+    },
+    Robot: {
+        rss: 'https://www.therobotreport.com/feed/',
+        base: 'https://www.therobotreport.com'
+    },
+    Bio: {
+        rss: 'https://www.statnews.com/category/pharma/feed/',
+        base: 'https://www.statnews.com'
+    }
+};
+
+const CATEGORY_MAP: Record<string, string> = {
+    'AI': 'AI',
+    'Robot': 'Robot',
+    'Bio': 'Bio',
+    'EdTech': 'EdTech'
+};
+
+const simulateAISummary = (item: any, category: string): Partial<NewsItem> => {
+    const title = item.title || '최신 기사';
+
+    const rawSnippet = item.contentSnippet || item.summary || item.content || '';
+    const cleanSnippet = rawSnippet
+        .replace(/<[^>]*>?/gm, '')
+        .replace(/\s+/g, ' ')
+        .trim();
+
+    // Custom logic for STAT News (Bio)
+    if (category === 'Bio') {
+        return {
+            titleKoran: `[STAT 분석] ${title}`,
+            oneLineSummary: cleanSnippet ? (cleanSnippet.length > 80 ? cleanSnippet.slice(0, 80) + '...' : cleanSnippet) : '제약 산업의 거시적 변화와 기업 가치에 대한 STAT의 심층 보도입니다.',
+            context: `${title}에 관한 STAT News의 최신 비즈니스 인사이트입니다.`,
+            whyImportant: '이 소식은 제약 산업의 규제 지형과 시장 점유율, 그리고 관련 기업들의 장기적인 밸류에이션에 중대한 영향을 미칠 수 있습니다.',
+            meaningForWork: '제약 및 바이오 분야 실무자라면 신약 승인 거절 시나리오 및 정책 변화에 따른 리스크를 사전에 분석하고 대응 전략을 마련해야 합니다.',
+        };
+    }
+
+    return {
+        titleKoran: `[실시간] ${title}`,
+        oneLineSummary: cleanSnippet ? (cleanSnippet.length > 80 ? cleanSnippet.slice(0, 80) + '...' : cleanSnippet) : '직장인을 위한 핵심 비즈니스 요약입니다.',
+        context: `${title}에 관한 글로벌 시장의 최신 트렌드와 상세 분석 뉴스입니다.`,
+        whyImportant: '해당 기술이나 정책이 산업 구조에 미치는 영향이 매우 크기 때문에 주목해야 합니다.',
+        meaningForWork: '실무 파트에서는 이와 같은 변화가 업무 프로세스나 신규 사업 전략에 미칠 영향을 검토해야 합니다.',
+    };
+};
+
+export const fetchLatestNews = async (category: string): Promise<NewsItem[]> => {
+    try {
+        const feedConfig = FEEDS[category as keyof typeof FEEDS];
+        if (!feedConfig) return [];
+
+        // RSS fetch via proxy with explicit User-Agent
+        const response = await fetch(PROXY_URL + encodeURIComponent(feedConfig.rss), {
+            headers: {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+            }
+        });
+
+        if (!response.ok) throw new Error(`HTTP Error: ${response.status}`);
+
+        const xml = await response.text();
+
+        const Parser = (await import('rss-parser')).default;
+        const parser = new Parser();
+        const feed = await parser.parseString(xml);
+
+        return feed.items.slice(0, 3).map((item, index) => {
+            const summary = simulateAISummary(item, category);
+
+            // Handle STAT News specific link properties or guid
+            let finalUrl = item.link || item.guid || '';
+
+            // Fix relative or protocol-less URLs
+            if (finalUrl) {
+                finalUrl = finalUrl.trim();
+                if (finalUrl.startsWith('//')) {
+                    finalUrl = `https:${finalUrl}`;
+                } else if (finalUrl.startsWith('/')) {
+                    finalUrl = `${feedConfig.base}${finalUrl}`;
+                } else if (!finalUrl.startsWith('http')) {
+                    // If it doesn't start with http, and it's not a path (doesn't start with /), 
+                    // we check if it looks like a path and append base
+                    const separator = finalUrl.startsWith('/') ? '' : '/';
+                    finalUrl = `${feedConfig.base}${separator}${finalUrl}`;
+                }
+            }
+
+            return {
+                id: `realtime-${category}-${Date.now()}-${index}`,
+                category: category as 'AI' | 'Robot' | 'Bio' | 'EdTech',
+                source: category === 'Bio' ? 'STAT News' : (feed.title || category),
+                titleKoran: summary.titleKoran || '[제목 없음]',
+                oneLineSummary: summary.oneLineSummary || '[요약 없음]',
+                context: summary.context || '[내용 없음]',
+                whyImportant: summary.whyImportant || '[중요성 정보 없음]',
+                meaningForWork: summary.meaningForWork || '[실무 의미 정보 없음]',
+                originalUrl: finalUrl,
+                date: new Date(item.pubDate || Date.now()).toISOString().split('T')[0],
+            };
+        });
+    } catch (error) {
+        console.error(`Fetch Error (${category}):`, error);
+        // Fallback to local JSON if RSS fails
+        const mappedCategory = CATEGORY_MAP[category] || category;
+        return (initialNewsData as any[]).filter(item => item.category === mappedCategory).slice(0, 3);
+    }
+};

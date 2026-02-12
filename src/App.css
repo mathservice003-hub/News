@@ -1,0 +1,218 @@
+.app-wrapper {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.loading-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+  gap: 20px;
+  color: var(--text-muted);
+}
+
+.loading-main {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.loading-sub {
+  font-size: 0.85rem;
+  color: var(--text-light);
+  margin-top: 5px;
+}
+
+.error-message {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background-color: #fef2f2;
+  color: #b91c1c;
+  padding: 8px 12px;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  margin-top: 12px;
+  border: 1px solid #fecaca;
+}
+
+.empty-state {
+  text-align: center;
+  padding: 40px;
+  color: var(--text-muted);
+  border: 1px dashed var(--border-color);
+  border-radius: 12px;
+}
+
+.main-content {
+  flex: 1;
+  padding-top: 40px;
+  padding-bottom: 60px;
+}
+
+.feed-header {
+  margin-bottom: 32px;
+}
+
+.feed-title-area {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.sync-button {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background-color: white;
+  border: 1px solid var(--border-color);
+  padding: 8px 16px;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.sync-button:hover {
+  background-color: var(--bg-color);
+  border-color: var(--primary-color);
+  color: var(--primary-color);
+}
+
+.refresh-animate {
+  display: inline-block;
+  animation: rotate 1s linear infinite;
+}
+
+.sync-button.syncing span {
+  animation: rotate 1s linear infinite;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.feed-header p {
+  color: var(--text-muted);
+}
+
+.category-tabs {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 24px;
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 8px;
+  overflow-x: auto;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.category-tabs::-webkit-scrollbar {
+  display: none;
+}
+
+.tab-button {
+  background: none;
+  border: none;
+  padding: 10px 16px;
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--text-muted);
+  cursor: pointer;
+  position: relative;
+  white-space: nowrap;
+  transition: all 0.2s;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.tab-button span {
+  position: relative;
+  z-index: 1;
+}
+
+.tab-button svg {
+  opacity: 0.7;
+}
+
+.tab-button:hover {
+  color: var(--text-main);
+  background: rgba(0, 0, 0, 0.03);
+  border-radius: 8px 8px 0 0;
+}
+
+.tab-button.active {
+  color: var(--primary-color);
+  font-weight: 700;
+}
+
+.tab-button.active svg {
+  opacity: 1;
+}
+
+.animate-spin {
+  animation: rotate 1s linear infinite;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.tab-underline {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background-color: var(--primary-color);
+  border-radius: 2px 2px 0 0;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+}
+
+@media (min-width: 1024px) {
+  .card-grid {
+    grid-template-columns: 1fr;
+    /* Stay 1 column for readability as requested by PRD card list style, or 2 if you want to show more */
+  }
+}
+
+.feed-footer {
+  margin-top: 80px;
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.feed-footer p {
+  font-size: 0.85rem;
+  color: var(--text-light);
+}
+
+@media (max-width: 600px) {
+  .main-content {
+    padding-top: 24px;
+  }
+}

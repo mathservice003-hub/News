@@ -1,0 +1,29 @@
+.category-tag {
+    display: inline-block;
+    padding: 4px 12px;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.025em;
+}
+
+.tag-ai {
+    background-color: var(--tag-ai-bg);
+    color: var(--tag-ai-text);
+}
+
+.tag-robot {
+    background-color: var(--tag-robot-bg);
+    color: var(--tag-robot-text);
+}
+
+.tag-bio {
+    background-color: var(--tag-bio-bg);
+    color: var(--tag-bio-text);
+}
+
+.tag-edtech {
+    background-color: var(--tag-edtech-bg);
+    color: var(--tag-edtech-text);
+}
