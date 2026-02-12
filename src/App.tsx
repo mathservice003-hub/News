@@ -165,7 +165,7 @@ function App() {
             </div>
 
             <footer className="feed-footer">
-              <p>© 2026 SciBrief for Work. 매분 매초 업데이트되는 기술 통찰</p>
+              <p>© 2026 SciBrief for Work. v1.1.0 | 매분 매초 업데이트되는 기술 통찰</p>
             </footer>
           </div>
         ) : (
