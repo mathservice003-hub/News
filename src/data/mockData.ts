@@ -11,12 +11,6 @@ export interface NewsItem {
     date: string;
 }
 
-// Helper to get relative dates based on current system time (2026-02-12)
-const getRelativeDate = (offsetDays = 0) => {
-    const date = new Date('2026-02-12');
-    date.setDate(date.getDate() - offsetDays);
-    return date.toISOString().split('T')[0];
-};
 
 export const mockNews: NewsItem[] = [
     // --- AI Category ---
