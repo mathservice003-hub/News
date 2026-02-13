@@ -1,42 +1,54 @@
 [
   {
-    "id": "auto-AI-1770969721737-0",
+    "id": "auto-AI-1770992913051-0",
     "category": "AI",
     "source": "MIT Technology Review",
-    "titleKoran": "[MIT 분석] The Download: AI-enhanced cybercrime, and secure AI assistants",
+    "titleKoran": "[MIT 분석] The Download: an exclusive chat with Jim O’Neill, and the surprising truth about heists",
     "oneLineSummary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the wor...",
-    "context": "The Download: AI-enhanced cybercrime, and secure AI assistants에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "context": "The Download: an exclusive chat with Jim O’Neill, and the surprising truth about heists에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
     "whyImportant": "인공지능 모델의 성능 한계 돌파나 보안상의 새로운 취약점 발견 등 기술적 임팩트가 매우 큰 보도입니다.",
     "meaningForWork": "AI 서비스 기획자라면 차세대 모델 도입 시 고려해야 할 인프라 효율성이나 프롬프트 가드레킹 강화 방안을 검토해야 합니다.",
-    "originalUrl": "https://www.technologyreview.com/2026/02/12/1132819/the-download-ai-enhanced-cybercrime-and-secure-ai-assistants/",
-    "date": "2026-02-12"
+    "originalUrl": "https://www.technologyreview.com/2026/02/13/1132896/the-download-an-exclusive-chat-with-jim-oneill-and-the-surprising-truth-about-heists/",
+    "date": "2026-02-13"
   },
   {
-    "id": "auto-AI-1770969721737-1",
+    "id": "auto-AI-1770992913052-1",
     "category": "AI",
     "source": "MIT Technology Review",
-    "titleKoran": "[MIT 분석] AI is already making online crimes easier. It could get much worse.",
-    "oneLineSummary": "Anton Cherepanov is always on the lookout for something interesting. And in late August last year, he spotted just that....",
-    "context": "AI is already making online crimes easier. It could get much worse.에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "titleKoran": "[MIT 분석] The myth of the high-tech heist",
+    "oneLineSummary": "Making a movie is a lot like pulling off a heist. That’s what Steven Soderbergh—director of the Ocean’s franchise, among...",
+    "context": "The myth of the high-tech heist에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
     "whyImportant": "인공지능 모델의 성능 한계 돌파나 보안상의 새로운 취약점 발견 등 기술적 임팩트가 매우 큰 보도입니다.",
     "meaningForWork": "AI 서비스 기획자라면 차세대 모델 도입 시 고려해야 할 인프라 효율성이나 프롬프트 가드레킹 강화 방안을 검토해야 합니다.",
-    "originalUrl": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/",
-    "date": "2026-02-12"
+    "originalUrl": "https://www.technologyreview.com/2026/02/13/1132397/myth-of-high-tech-heist/",
+    "date": "2026-02-13"
   },
   {
-    "id": "auto-AI-1770969721737-2",
+    "id": "auto-AI-1770992913052-2",
     "category": "AI",
     "source": "MIT Technology Review",
-    "titleKoran": "[MIT 분석] Why EVs are gaining ground in Africa",
-    "oneLineSummary": "EVs are getting cheaper and more common all over the world. But the technology still faces major challenges in some mark...",
-    "context": "Why EVs are gaining ground in Africa에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "titleKoran": "[MIT 분석] US deputy health secretary: Vaccine guidelines are still subject to change",
+    "oneLineSummary": "Over the past year, Jim O’Neill has become one of the most powerful people in public health. As the US deputy health sec...",
+    "context": "US deputy health secretary: Vaccine guidelines are still subject to change에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
     "whyImportant": "인공지능 모델의 성능 한계 돌파나 보안상의 새로운 취약점 발견 등 기술적 임팩트가 매우 큰 보도입니다.",
     "meaningForWork": "AI 서비스 기획자라면 차세대 모델 도입 시 고려해야 할 인프라 효율성이나 프롬프트 가드레킹 강화 방안을 검토해야 합니다.",
-    "originalUrl": "https://www.technologyreview.com/2026/02/12/1132790/evs-progress-africa/",
-    "date": "2026-02-12"
+    "originalUrl": "https://www.technologyreview.com/2026/02/13/1132889/us-deputy-health-secretary-vaccine-guidelines-longevity-arpa-h-cdc-nih/",
+    "date": "2026-02-13"
   },
   {
-    "id": "auto-Robot-1770969722192-0",
+    "id": "auto-Robot-1770992913294-0",
+    "category": "Robot",
+    "source": "The Robot Report",
+    "titleKoran": "[Robot Report] Trener Robotics raises $32M for robot-agnostic skills platform",
+    "oneLineSummary": "Trener Robotics’ Acteris is a robot-agnostic skills platform that lets operators describe the tasks they want to automat...",
+    "context": "Trener Robotics raises $32M for robot-agnostic skills platform에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "whyImportant": "로봇의 자율 주행 능력이나 인간과의 협업 안전성 등 산업 현장의 자동화 수준을 한 단계 높이는 중요한 기술적 성과입니다.",
+    "meaningForWork": "현장 자동화 책임자라면 실제 도입 시 환경적 제약 사항과 안전 센서의 신뢰도를 바탕으로 ROI를 재평가해야 합니다.",
+    "originalUrl": "https://www.therobotreport.com/trener-robotics-raises-32m-for-robot-agnostic-skills-platform/",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "auto-Robot-1770992913294-1",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] PickNik Robotics to work with Motiv Space Systems on NASA ISAM mission",
@@ -48,7 +60,7 @@
     "date": "2026-02-12"
   },
   {
-    "id": "auto-Robot-1770969722192-1",
+    "id": "auto-Robot-1770992913294-2",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] Warehousing robot maker turns to lubrication-free motion plastics",
@@ -60,19 +72,7 @@
     "date": "2026-02-12"
   },
   {
-    "id": "auto-Robot-1770969722192-2",
-    "category": "Robot",
-    "source": "The Robot Report",
-    "titleKoran": "[Robot Report] Apptronik brings in another $520M to ramp up Apollo production",
-    "oneLineSummary": "Apptronik has raised a total of close to $1 billion as it continues developing the Apollo humanoid robot for industrial ...",
-    "context": "Apptronik brings in another $520M to ramp up Apollo production에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
-    "whyImportant": "로봇의 자율 주행 능력이나 인간과의 협업 안전성 등 산업 현장의 자동화 수준을 한 단계 높이는 중요한 기술적 성과입니다.",
-    "meaningForWork": "현장 자동화 책임자라면 실제 도입 시 환경적 제약 사항과 안전 센서의 신뢰도를 바탕으로 ROI를 재평가해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/apptronik-brings-in-another-520m-to-ramp-up-apollo-production/",
-    "date": "2026-02-11"
-  },
-  {
-    "id": "auto-Bio-1770969722351-0",
+    "id": "auto-Bio-1770992913494-0",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 분석] STAT+: Trump administration is urged to use a federal law to authorize generic versions of GLP-1 drugs",
@@ -84,7 +84,7 @@
     "date": "2026-02-12"
   },
   {
-    "id": "auto-Bio-1770969722351-1",
+    "id": "auto-Bio-1770992913494-1",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 분석] STAT+: FDA’s rejection of Moderna threatens to stifle broader vaccine industry",
@@ -96,7 +96,7 @@
     "date": "2026-02-12"
   },
   {
-    "id": "auto-Bio-1770969722351-2",
+    "id": "auto-Bio-1770992913494-2",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 분석] STAT+: The messaging war over Medicaid cuts",
