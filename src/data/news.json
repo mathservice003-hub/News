@@ -1,6 +1,6 @@
 [
   {
-    "id": "auto-AI-1771055306852-0",
+    "id": "auto-AI-1771077391290-0",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] ALS stole this musician’s voice. AI let him sing again.",
@@ -12,7 +12,7 @@
     "date": "2026-02-13"
   },
   {
-    "id": "auto-AI-1771055306852-1",
+    "id": "auto-AI-1771077391290-1",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The Download: an exclusive chat with Jim O’Neill, and the surprising truth about heists",
@@ -24,7 +24,7 @@
     "date": "2026-02-13"
   },
   {
-    "id": "auto-AI-1771055306852-2",
+    "id": "auto-AI-1771077391290-2",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The myth of the high-tech heist",
@@ -36,7 +36,19 @@
     "date": "2026-02-13"
   },
   {
-    "id": "auto-Robot-1771055307350-0",
+    "id": "auto-Robot-1771077391723-0",
+    "category": "Robot",
+    "source": "The Robot Report",
+    "titleKoran": "[Robot Report] ServoBelt offers high-end performance for automotive gantry",
+    "oneLineSummary": "Bell-Everman says its ServoBelt technology provides a cost-effective alternative to oversized gantry systems without sac...",
+    "context": "ServoBelt offers high-end performance for automotive gantry에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "whyImportant": "로봇의 자율 주행 능력이나 인간과의 협업 안전성 등 산업 현장의 자동화 수준을 한 단계 높이는 중요한 기술적 성과입니다.",
+    "meaningForWork": "현장 자동화 책임자라면 실제 도입 시 환경적 제약 사항과 안전 센서의 신뢰도를 바탕으로 ROI를 재평가해야 합니다.",
+    "originalUrl": "https://www.therobotreport.com/servobelt-offers-high-end-performance-automotive-gantry/",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "auto-Robot-1771077391723-1",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] Manifest 2026 recap",
@@ -48,7 +60,7 @@
     "date": "2026-02-14"
   },
   {
-    "id": "auto-Robot-1771055307350-1",
+    "id": "auto-Robot-1771077391723-2",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] Realbotix makes transition from novelty to embodied AI",
@@ -60,19 +72,7 @@
     "date": "2026-02-13"
   },
   {
-    "id": "auto-Robot-1771055307350-2",
-    "category": "Robot",
-    "source": "The Robot Report",
-    "titleKoran": "[Robot Report] Trener Robotics raises $32M for robot-agnostic skills platform",
-    "oneLineSummary": "Trener Robotics’ Acteris is a robot-agnostic skills platform that lets operators describe the tasks they want to automat...",
-    "context": "Trener Robotics raises $32M for robot-agnostic skills platform에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
-    "whyImportant": "로봇의 자율 주행 능력이나 인간과의 협업 안전성 등 산업 현장의 자동화 수준을 한 단계 높이는 중요한 기술적 성과입니다.",
-    "meaningForWork": "현장 자동화 책임자라면 실제 도입 시 환경적 제약 사항과 안전 센서의 신뢰도를 바탕으로 ROI를 재평가해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/trener-robotics-raises-32m-for-robot-agnostic-skills-platform/",
-    "date": "2026-02-13"
-  },
-  {
-    "id": "auto-Bio-1771055307424-0",
+    "id": "auto-Bio-1771077391818-0",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 분석] STAT+: Up and down the ladder: The latest comings and goings",
@@ -84,7 +84,7 @@
     "date": "2026-02-13"
   },
   {
-    "id": "auto-Bio-1771055307424-1",
+    "id": "auto-Bio-1771077391818-1",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 분석] STAT+: Pediatricians confront HHS in vaccine showdown",
@@ -96,7 +96,7 @@
     "date": "2026-02-13"
   },
   {
-    "id": "auto-Bio-1771055307424-2",
+    "id": "auto-Bio-1771077391818-2",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 분석] STAT+: Pharmalittle: We’re reading about Lilly bulking up on weight-loss drugs, scrutiny of a 340B contractor, and more",
