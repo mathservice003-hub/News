@@ -1,6 +1,6 @@
 [
   {
-    "id": "auto-AI-1771012537471-0",
+    "id": "auto-AI-1771045225726-0",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] ALS stole this musician’s voice. AI let him sing again.",
@@ -12,7 +12,7 @@
     "date": "2026-02-13"
   },
   {
-    "id": "auto-AI-1771012537471-1",
+    "id": "auto-AI-1771045225726-1",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The Download: an exclusive chat with Jim O’Neill, and the surprising truth about heists",
@@ -24,7 +24,7 @@
     "date": "2026-02-13"
   },
   {
-    "id": "auto-AI-1771012537471-2",
+    "id": "auto-AI-1771045225726-2",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The myth of the high-tech heist",
@@ -36,7 +36,31 @@
     "date": "2026-02-13"
   },
   {
-    "id": "auto-Robot-1771012537704-0",
+    "id": "auto-Robot-1771045225911-0",
+    "category": "Robot",
+    "source": "The Robot Report",
+    "titleKoran": "[Robot Report] Manifest 2026 recap",
+    "oneLineSummary": "Editors Mike Oitzman and Gene Demaitre recap the latest robotics news and their recent trip to the Manifest supply chain...",
+    "context": "Manifest 2026 recap에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "whyImportant": "로봇의 자율 주행 능력이나 인간과의 협업 안전성 등 산업 현장의 자동화 수준을 한 단계 높이는 중요한 기술적 성과입니다.",
+    "meaningForWork": "현장 자동화 책임자라면 실제 도입 시 환경적 제약 사항과 안전 센서의 신뢰도를 바탕으로 ROI를 재평가해야 합니다.",
+    "originalUrl": "https://www.therobotreport.com/manifest-2026-recap/",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "auto-Robot-1771045225911-1",
+    "category": "Robot",
+    "source": "The Robot Report",
+    "titleKoran": "[Robot Report] Realbotix makes transition from novelty to embodied AI",
+    "oneLineSummary": "Realbotix, which showed its humanoids at CES 2026, illustrates how technology can mature past adult entertainment, write...",
+    "context": "Realbotix makes transition from novelty to embodied AI에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "whyImportant": "로봇의 자율 주행 능력이나 인간과의 협업 안전성 등 산업 현장의 자동화 수준을 한 단계 높이는 중요한 기술적 성과입니다.",
+    "meaningForWork": "현장 자동화 책임자라면 실제 도입 시 환경적 제약 사항과 안전 센서의 신뢰도를 바탕으로 ROI를 재평가해야 합니다.",
+    "originalUrl": "https://www.therobotreport.com/realbotix-makes-transition-from-novelty-to-embodied-ai/",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "auto-Robot-1771045225911-2",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] Trener Robotics raises $32M for robot-agnostic skills platform",
@@ -48,31 +72,7 @@
     "date": "2026-02-13"
   },
   {
-    "id": "auto-Robot-1771012537704-1",
-    "category": "Robot",
-    "source": "The Robot Report",
-    "titleKoran": "[Robot Report] PickNik Robotics to work with Motiv Space Systems on NASA ISAM mission",
-    "oneLineSummary": "For the mission, Motiv will be developing the robotic system while PickNik will provide robot motion planning and arm co...",
-    "context": "PickNik Robotics to work with Motiv Space Systems on NASA ISAM mission에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
-    "whyImportant": "로봇의 자율 주행 능력이나 인간과의 협업 안전성 등 산업 현장의 자동화 수준을 한 단계 높이는 중요한 기술적 성과입니다.",
-    "meaningForWork": "현장 자동화 책임자라면 실제 도입 시 환경적 제약 사항과 안전 센서의 신뢰도를 바탕으로 ROI를 재평가해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/picknik-robotics-to-work-with-motiv-space-systems-on-nasa-isam-mission/",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "auto-Robot-1771012537704-2",
-    "category": "Robot",
-    "source": "The Robot Report",
-    "titleKoran": "[Robot Report] Warehousing robot maker turns to lubrication-free motion plastics",
-    "oneLineSummary": "Bastian Solutions needed rugged and reliable bearings for its warehousing robot to load trucks, so it turned to igus mot...",
-    "context": "Warehousing robot maker turns to lubrication-free motion plastics에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
-    "whyImportant": "로봇의 자율 주행 능력이나 인간과의 협업 안전성 등 산업 현장의 자동화 수준을 한 단계 높이는 중요한 기술적 성과입니다.",
-    "meaningForWork": "현장 자동화 책임자라면 실제 도입 시 환경적 제약 사항과 안전 센서의 신뢰도를 바탕으로 ROI를 재평가해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/warehousing-robot-maker-turns-to-lubrication-free-motion-plastics/",
-    "date": "2026-02-12"
-  },
-  {
-    "id": "auto-Bio-1771012537914-0",
+    "id": "auto-Bio-1771045226099-0",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 분석] STAT+: Up and down the ladder: The latest comings and goings",
@@ -84,7 +84,7 @@
     "date": "2026-02-13"
   },
   {
-    "id": "auto-Bio-1771012537914-1",
+    "id": "auto-Bio-1771045226099-1",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 분석] STAT+: Pediatricians confront HHS in vaccine showdown",
@@ -96,7 +96,7 @@
     "date": "2026-02-13"
   },
   {
-    "id": "auto-Bio-1771012537914-2",
+    "id": "auto-Bio-1771045226099-2",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 분석] STAT+: Pharmalittle: We’re reading about Lilly bulking up on weight-loss drugs, scrutiny of a 340B contractor, and more",
