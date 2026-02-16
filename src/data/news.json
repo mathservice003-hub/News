@@ -1,6 +1,18 @@
 [
   {
-    "id": "auto-AI-1771252285715-0",
+    "id": "auto-AI-1771271166178-0",
+    "category": "AI",
+    "source": "MIT Technology Review",
+    "titleKoran": "[MIT 분석] Tuning into the future of collaboration ",
+    "oneLineSummary": "When work went remote, the sound of business changed. What began as a scramble to make home offices functional has evolv...",
+    "context": "Tuning into the future of collaboration 에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "whyImportant": "인공지능 모델의 성능 한계 돌파나 보안상의 새로운 취약점 발견 등 기술적 임팩트가 매우 큰 보도입니다.",
+    "meaningForWork": "AI 서비스 기획자라면 차세대 모델 도입 시 고려해야 할 인프라 효율성이나 프롬프트 가드레킹 강화 방안을 검토해야 합니다.",
+    "originalUrl": "https://www.technologyreview.com/2026/02/16/1125881/tuning-into-the-future-of-collaboration/",
+    "date": "2026-02-16"
+  },
+  {
+    "id": "auto-AI-1771271166178-1",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The Download: unraveling a death threat mystery, and AI voice recreation for musicians",
@@ -12,7 +24,7 @@
     "date": "2026-02-16"
   },
   {
-    "id": "auto-AI-1771252285715-1",
+    "id": "auto-AI-1771271166178-2",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The scientist using AI to hunt for antibiotics just about everywhere",
@@ -24,19 +36,19 @@
     "date": "2026-02-16"
   },
   {
-    "id": "auto-AI-1771252285715-2",
-    "category": "AI",
-    "source": "MIT Technology Review",
-    "titleKoran": "[MIT 분석] Hackers made death threats against this security researcher. Big mistake.",
-    "oneLineSummary": "The threats started in spring. In April 2024, a mysterious someone using the online handles “Waifu” and “Judische” began...",
-    "context": "Hackers made death threats against this security researcher. Big mistake.에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
-    "whyImportant": "인공지능 모델의 성능 한계 돌파나 보안상의 새로운 취약점 발견 등 기술적 임팩트가 매우 큰 보도입니다.",
-    "meaningForWork": "AI 서비스 기획자라면 차세대 모델 도입 시 고려해야 할 인프라 효율성이나 프롬프트 가드레킹 강화 방안을 검토해야 합니다.",
-    "originalUrl": "https://www.technologyreview.com/2026/02/16/1132526/allison-nixon-hackers-security-researcher/",
+    "id": "auto-Robot-1771271166474-0",
+    "category": "Robot",
+    "source": "The Robot Report",
+    "titleKoran": "[Robot Report] How motor design enables different types of robots",
+    "oneLineSummary": "Advances in motor design have allowed different types of robots to both specialize for industrial functions and converge...",
+    "context": "How motor design enables different types of robots에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "whyImportant": "로봇의 자율 주행 능력이나 인간과의 협업 안전성 등 산업 현장의 자동화 수준을 한 단계 높이는 중요한 기술적 성과입니다.",
+    "meaningForWork": "현장 자동화 책임자라면 실제 도입 시 환경적 제약 사항과 안전 센서의 신뢰도를 바탕으로 ROI를 재평가해야 합니다.",
+    "originalUrl": "https://www.therobotreport.com/how-motor-design-enables-different-types-of-robots/",
     "date": "2026-02-16"
   },
   {
-    "id": "auto-Robot-1771252285979-0",
+    "id": "auto-Robot-1771271166474-1",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] The keys to designing safe and shared cobot workspaces",
@@ -48,7 +60,7 @@
     "date": "2026-02-16"
   },
   {
-    "id": "auto-Robot-1771252285979-1",
+    "id": "auto-Robot-1771271166474-2",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] High-precision robots: What to do when absolute accuracy is poor?",
@@ -60,19 +72,7 @@
     "date": "2026-02-15"
   },
   {
-    "id": "auto-Robot-1771252285979-2",
-    "category": "Robot",
-    "source": "The Robot Report",
-    "titleKoran": "[Robot Report] ServoBelt offers high-end performance for automotive gantry",
-    "oneLineSummary": "Bell-Everman says its ServoBelt technology provides a cost-effective alternative to oversized gantry systems without sac...",
-    "context": "ServoBelt offers high-end performance for automotive gantry에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
-    "whyImportant": "로봇의 자율 주행 능력이나 인간과의 협업 안전성 등 산업 현장의 자동화 수준을 한 단계 높이는 중요한 기술적 성과입니다.",
-    "meaningForWork": "현장 자동화 책임자라면 실제 도입 시 환경적 제약 사항과 안전 센서의 신뢰도를 바탕으로 ROI를 재평가해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/servobelt-offers-high-end-performance-automotive-gantry/",
-    "date": "2026-02-14"
-  },
-  {
-    "id": "auto-Bio-1771252286173-0",
+    "id": "auto-Bio-1771271166565-0",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 분석] STAT+: Up and down the ladder: The latest comings and goings",
@@ -84,7 +84,7 @@
     "date": "2026-02-13"
   },
   {
-    "id": "auto-Bio-1771252286173-1",
+    "id": "auto-Bio-1771271166565-1",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 분석] STAT+: Pediatricians confront HHS in vaccine showdown",
@@ -96,7 +96,7 @@
     "date": "2026-02-13"
   },
   {
-    "id": "auto-Bio-1771252286173-2",
+    "id": "auto-Bio-1771271166565-2",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 분석] STAT+: Pharmalittle: We’re reading about Lilly bulking up on weight-loss drugs, scrutiny of a 340B contractor, and more",
