@@ -1,6 +1,30 @@
 [
   {
-    "id": "auto-AI-1771315421451-0",
+    "id": "auto-AI-1771339003383-0",
+    "category": "AI",
+    "source": "MIT Technology Review",
+    "titleKoran": "[MIT 분석] The Download: the rise of luxury car theft, and fighting antimicrobial resistance",
+    "oneLineSummary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the wor...",
+    "context": "The Download: the rise of luxury car theft, and fighting antimicrobial resistance에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "whyImportant": "인공지능 모델의 성능 한계 돌파나 보안상의 새로운 취약점 발견 등 기술적 임팩트가 매우 큰 보도입니다.",
+    "meaningForWork": "AI 서비스 기획자라면 차세대 모델 도입 시 고려해야 할 인프라 효율성이나 프롬프트 가드레킹 강화 방안을 검토해야 합니다.",
+    "originalUrl": "https://www.technologyreview.com/2026/02/17/1133018/the-download-the-rise-of-luxury-car-theft-and-fighting-antimicrobial-resistance/",
+    "date": "2026-02-17"
+  },
+  {
+    "id": "auto-AI-1771339003384-1",
+    "category": "AI",
+    "source": "MIT Technology Review",
+    "titleKoran": "[MIT 분석] The curious case of the disappearing Lamborghinis",
+    "oneLineSummary": "When Sam Zahr first saw the gray Rolls-Royce Dawn convertible with orange interior and orange roof, he knew he’d found a...",
+    "context": "The curious case of the disappearing Lamborghinis에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "whyImportant": "인공지능 모델의 성능 한계 돌파나 보안상의 새로운 취약점 발견 등 기술적 임팩트가 매우 큰 보도입니다.",
+    "meaningForWork": "AI 서비스 기획자라면 차세대 모델 도입 시 고려해야 할 인프라 효율성이나 프롬프트 가드레킹 강화 방안을 검토해야 합니다.",
+    "originalUrl": "https://www.technologyreview.com/2026/02/17/1132538/curious-case-disappearing-lambhorghinis/",
+    "date": "2026-02-17"
+  },
+  {
+    "id": "auto-AI-1771339003384-2",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] Tuning into the future of collaboration ",
@@ -12,31 +36,7 @@
     "date": "2026-02-16"
   },
   {
-    "id": "auto-AI-1771315421451-1",
-    "category": "AI",
-    "source": "MIT Technology Review",
-    "titleKoran": "[MIT 분석] The Download: unraveling a death threat mystery, and AI voice recreation for musicians",
-    "oneLineSummary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the wor...",
-    "context": "The Download: unraveling a death threat mystery, and AI voice recreation for musicians에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
-    "whyImportant": "인공지능 모델의 성능 한계 돌파나 보안상의 새로운 취약점 발견 등 기술적 임팩트가 매우 큰 보도입니다.",
-    "meaningForWork": "AI 서비스 기획자라면 차세대 모델 도입 시 고려해야 할 인프라 효율성이나 프롬프트 가드레킹 강화 방안을 검토해야 합니다.",
-    "originalUrl": "https://www.technologyreview.com/2026/02/16/1133008/the-download-unraveling-a-death-threat-mystery-and-ai-voice-recreation-for-musicians/",
-    "date": "2026-02-16"
-  },
-  {
-    "id": "auto-AI-1771315421451-2",
-    "category": "AI",
-    "source": "MIT Technology Review",
-    "titleKoran": "[MIT 분석] The scientist using AI to hunt for antibiotics just about everywhere",
-    "oneLineSummary": "When he was just a teenager trying to decide what to do with his life, César de la Fuente compiled a list of the world’s...",
-    "context": "The scientist using AI to hunt for antibiotics just about everywhere에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
-    "whyImportant": "인공지능 모델의 성능 한계 돌파나 보안상의 새로운 취약점 발견 등 기술적 임팩트가 매우 큰 보도입니다.",
-    "meaningForWork": "AI 서비스 기획자라면 차세대 모델 도입 시 고려해야 할 인프라 효율성이나 프롬프트 가드레킹 강화 방안을 검토해야 합니다.",
-    "originalUrl": "https://www.technologyreview.com/2026/02/16/1132516/cesar-de-la-fuente-using-ai-antibiotics-hunt/",
-    "date": "2026-02-16"
-  },
-  {
-    "id": "auto-Robot-1771315421642-0",
+    "id": "auto-Robot-1771339003586-0",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] How motor design enables different types of robots",
@@ -48,7 +48,7 @@
     "date": "2026-02-16"
   },
   {
-    "id": "auto-Robot-1771315421642-1",
+    "id": "auto-Robot-1771339003586-1",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] The keys to designing safe and shared cobot workspaces",
@@ -60,7 +60,7 @@
     "date": "2026-02-16"
   },
   {
-    "id": "auto-Robot-1771315421642-2",
+    "id": "auto-Robot-1771339003586-2",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] High-precision robots: What to do when absolute accuracy is poor?",
@@ -72,39 +72,39 @@
     "date": "2026-02-15"
   },
   {
-    "id": "auto-Bio-1771315421789-0",
+    "id": "auto-Bio-1771339003740-0",
     "category": "Bio",
     "source": "STAT News",
-    "titleKoran": "[STAT 분석] STAT+: Up and down the ladder: The latest comings and goings",
-    "oneLineSummary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical ind...",
-    "context": "STAT+: Up and down the ladder: The latest comings and goings에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "titleKoran": "[STAT 분석] STAT+: Pharmalittle: We’re reading about China’s homegrown GLP-1 drugs, a puzzling FDA rejection, and more",
+    "oneLineSummary": "The FDA rejected a Disc Medicine therapy for a rare blood disorder, the first experimental drug to go through a new prog...",
+    "context": "STAT+: Pharmalittle: We’re reading about China’s homegrown GLP-1 drugs, a puzzling FDA rejection, and more에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
     "whyImportant": "규제 기관의 승인 방향과 신약 파이프라인의 가치 평가에 직접적인 영향을 주는 STAT의 단독 분석입니다.",
     "meaningForWork": "임상 및 인허가 담당자는 이 사례가 자사 파이프라인의 전략 수립에 주는 시사점을 분석하고 안전성 데이터를 재점검해야 합니다.",
-    "originalUrl": "https://www.statnews.com/pharmalot/2026/02/13/pharma-biotech-jobs-lexeo-sanofi-ocugen/?utm_campaign=rss",
-    "date": "2026-02-13"
+    "originalUrl": "https://www.statnews.com/pharmalot/2026/02/17/india-ireland-china-glp-lilly-novo-obesity-vaccines-peanuts-africa/?utm_campaign=rss",
+    "date": "2026-02-17"
   },
   {
-    "id": "auto-Bio-1771315421789-1",
+    "id": "auto-Bio-1771339003740-1",
     "category": "Bio",
     "source": "STAT News",
-    "titleKoran": "[STAT 분석] STAT+: Pediatricians confront HHS in vaccine showdown",
-    "oneLineSummary": "And other biotech news brought to you by The Readout",
-    "context": "STAT+: Pediatricians confront HHS in vaccine showdown에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "titleKoran": "[STAT 분석] STAT+: Ocular’s experimental eye drug beats low dose of Regeneron’s Eylea in late-stage trial",
+    "oneLineSummary": "Ocular now plans to apply for FDA approval, but whether doctors and insurers will favor its new drug is an open question...",
+    "context": "STAT+: Ocular’s experimental eye drug beats low dose of Regeneron’s Eylea in late-stage trial에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
     "whyImportant": "규제 기관의 승인 방향과 신약 파이프라인의 가치 평가에 직접적인 영향을 주는 STAT의 단독 분석입니다.",
     "meaningForWork": "임상 및 인허가 담당자는 이 사례가 자사 파이프라인의 전략 수립에 주는 시사점을 분석하고 안전성 데이터를 재점검해야 합니다.",
-    "originalUrl": "https://www.statnews.com/2026/02/13/biotech-news-pediatricians-confront-hhs-vaccine-showdown/?utm_campaign=rss",
-    "date": "2026-02-13"
+    "originalUrl": "https://www.statnews.com/2026/02/17/ocular-therapeutix-axpaxli-wet-amd-treatment-compared-to-eylea-regeneron/?utm_campaign=rss",
+    "date": "2026-02-17"
   },
   {
-    "id": "auto-Bio-1771315421789-2",
+    "id": "auto-Bio-1771339003740-2",
     "category": "Bio",
     "source": "STAT News",
-    "titleKoran": "[STAT 분석] STAT+: Pharmalittle: We’re reading about Lilly bulking up on weight-loss drugs, scrutiny of a 340B contractor, and more",
-    "oneLineSummary": "And other pharma news from the Pharmalot campus today",
-    "context": "STAT+: Pharmalittle: We’re reading about Lilly bulking up on weight-loss drugs, scrutiny of a 340B contractor, and more에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "titleKoran": "[STAT 분석] STAT+: Compass says its psilocybin drug helped patients with severe depression in two trials",
+    "oneLineSummary": "COMP360 could be the first psilocybin-based medicine to win approval.",
+    "context": "STAT+: Compass says its psilocybin drug helped patients with severe depression in two trials에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
     "whyImportant": "규제 기관의 승인 방향과 신약 파이프라인의 가치 평가에 직접적인 영향을 주는 STAT의 단독 분석입니다.",
     "meaningForWork": "임상 및 인허가 담당자는 이 사례가 자사 파이프라인의 전략 수립에 주는 시사점을 분석하고 안전성 데이터를 재점검해야 합니다.",
-    "originalUrl": "https://www.statnews.com/pharmalot/2026/02/13/lilly-glp1-obesity-340b-nih-hiv-aids/?utm_campaign=rss",
-    "date": "2026-02-13"
+    "originalUrl": "https://www.statnews.com/2026/02/17/compass-pathways-comp360-psilocybin-severe-depression-trial-results/?utm_campaign=rss",
+    "date": "2026-02-17"
   }
 ]
