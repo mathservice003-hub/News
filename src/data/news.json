@@ -1,6 +1,18 @@
 [
   {
-    "id": "auto-AI-1771425341752-0",
+    "id": "auto-AI-1771444880615-0",
+    "category": "AI",
+    "source": "MIT Technology Review",
+    "titleKoran": "[MIT 분석] Google DeepMind wants to know if chatbots are just virtue signaling",
+    "oneLineSummary": "Google DeepMind is calling for the moral behavior of large language models—such as what they do when called on to act as...",
+    "context": "Google DeepMind wants to know if chatbots are just virtue signaling에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "whyImportant": "인공지능 모델의 성능 한계 돌파나 보안상의 새로운 취약점 발견 등 기술적 임팩트가 매우 큰 보도입니다.",
+    "meaningForWork": "AI 서비스 기획자라면 차세대 모델 도입 시 고려해야 할 인프라 효율성이나 프롬프트 가드레킹 강화 방안을 검토해야 합니다.",
+    "originalUrl": "https://www.technologyreview.com/2026/02/18/1133299/google-deepmind-wants-to-know-if-chatbots-are-just-virtue-signaling/",
+    "date": "2026-02-18"
+  },
+  {
+    "id": "auto-AI-1771444880615-1",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The Download: a blockchain enigma, and the algorithms governing our lives",
@@ -12,7 +24,7 @@
     "date": "2026-02-18"
   },
   {
-    "id": "auto-AI-1771425341752-1",
+    "id": "auto-AI-1771444880615-2",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The robots who predict the future",
@@ -24,19 +36,31 @@
     "date": "2026-02-18"
   },
   {
-    "id": "auto-AI-1771425341752-2",
-    "category": "AI",
-    "source": "MIT Technology Review",
-    "titleKoran": "[MIT 분석] Welcome to the dark side of crypto’s permissionless dream",
-    "oneLineSummary": "“We’re out of airspace now. We can do whatever we want,” Jean-Paul Thorbjornsen tells me from the pilot’s seat of his As...",
-    "context": "Welcome to the dark side of crypto’s permissionless dream에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
-    "whyImportant": "인공지능 모델의 성능 한계 돌파나 보안상의 새로운 취약점 발견 등 기술적 임팩트가 매우 큰 보도입니다.",
-    "meaningForWork": "AI 서비스 기획자라면 차세대 모델 도입 시 고려해야 할 인프라 효율성이나 프롬프트 가드레킹 강화 방안을 검토해야 합니다.",
-    "originalUrl": "https://www.technologyreview.com/2026/02/18/1132587/jean-paul-thorbjornsen-dark-side-crypto-permissionless-dream/",
+    "id": "auto-Robot-1771444881172-0",
+    "category": "Robot",
+    "source": "The Robot Report",
+    "titleKoran": "[Robot Report] igus launches new RBTX online shopping experience for robotics developers",
+    "oneLineSummary": "This shift to a self-serve model removes the requirement for a sales consultation, providing a streamlined experience, i...",
+    "context": "igus launches new RBTX online shopping experience for robotics developers에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "whyImportant": "로봇의 자율 주행 능력이나 인간과의 협업 안전성 등 산업 현장의 자동화 수준을 한 단계 높이는 중요한 기술적 성과입니다.",
+    "meaningForWork": "현장 자동화 책임자라면 실제 도입 시 환경적 제약 사항과 안전 센서의 신뢰도를 바탕으로 ROI를 재평가해야 합니다.",
+    "originalUrl": "https://www.therobotreport.com/igus-launches-new-rbtx-online-shopping-experience-robotics-developers/",
     "date": "2026-02-18"
   },
   {
-    "id": "auto-Robot-1771425342113-0",
+    "id": "auto-Robot-1771444881172-1",
+    "category": "Robot",
+    "source": "The Robot Report",
+    "titleKoran": "[Robot Report] Mitsubishi Electric follows digital-first strategy for drone management",
+    "oneLineSummary": "Mitsubishi Electric United States is focused on helping companies with digital-first initiatives such as AnyMile for dro...",
+    "context": "Mitsubishi Electric follows digital-first strategy for drone management에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "whyImportant": "로봇의 자율 주행 능력이나 인간과의 협업 안전성 등 산업 현장의 자동화 수준을 한 단계 높이는 중요한 기술적 성과입니다.",
+    "meaningForWork": "현장 자동화 책임자라면 실제 도입 시 환경적 제약 사항과 안전 센서의 신뢰도를 바탕으로 ROI를 재평가해야 합니다.",
+    "originalUrl": "https://www.therobotreport.com/mitsubishi-electric-follows-digital-first-strategy-for-drone-management/",
+    "date": "2026-02-18"
+  },
+  {
+    "id": "auto-Robot-1771444881172-2",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] Medtronic earns FDA clearance for Stealth AXiS spinal surgery system",
@@ -48,31 +72,31 @@
     "date": "2026-02-17"
   },
   {
-    "id": "auto-Robot-1771425342113-1",
-    "category": "Robot",
-    "source": "The Robot Report",
-    "titleKoran": "[Robot Report] IFR releases position paper on AI in robotics",
-    "oneLineSummary": "Artificial intelligence is transforming the robotics field at a rapid pace, according to the International Federation of...",
-    "context": "IFR releases position paper on AI in robotics에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
-    "whyImportant": "로봇의 자율 주행 능력이나 인간과의 협업 안전성 등 산업 현장의 자동화 수준을 한 단계 높이는 중요한 기술적 성과입니다.",
-    "meaningForWork": "현장 자동화 책임자라면 실제 도입 시 환경적 제약 사항과 안전 센서의 신뢰도를 바탕으로 ROI를 재평가해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/ifr-releases-position-paper-ai-robotics/",
-    "date": "2026-02-17"
+    "id": "auto-Bio-1771444881323-0",
+    "category": "Bio",
+    "source": "STAT News",
+    "titleKoran": "[STAT 분석] STAT+: Investors cheer Compass’ psilocybin data  ",
+    "oneLineSummary": "And other biotech news brought to you by The Readout",
+    "context": "STAT+: Investors cheer Compass’ psilocybin data  에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "whyImportant": "규제 기관의 승인 방향과 신약 파이프라인의 가치 평가에 직접적인 영향을 주는 STAT의 단독 분석입니다.",
+    "meaningForWork": "임상 및 인허가 담당자는 이 사례가 자사 파이프라인의 전략 수립에 주는 시사점을 분석하고 안전성 데이터를 재점검해야 합니다.",
+    "originalUrl": "https://www.statnews.com/2026/02/18/biotech-news-investors-celebrate-compass-psilocybin-data/?utm_campaign=rss",
+    "date": "2026-02-18"
   },
   {
-    "id": "auto-Robot-1771425342113-2",
-    "category": "Robot",
-    "source": "The Robot Report",
-    "titleKoran": "[Robot Report] ARM Institute opens project call for military supply chain technology",
-    "oneLineSummary": "The Office of the Secretary of Defense is working with the ARM Institute and other manufacturing innovation institutes o...",
-    "context": "ARM Institute opens project call for military supply chain technology에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
-    "whyImportant": "로봇의 자율 주행 능력이나 인간과의 협업 안전성 등 산업 현장의 자동화 수준을 한 단계 높이는 중요한 기술적 성과입니다.",
-    "meaningForWork": "현장 자동화 책임자라면 실제 도입 시 환경적 제약 사항과 안전 센서의 신뢰도를 바탕으로 ROI를 재평가해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/arm-institute-opens-project-call-for-military-supply-chain-technology/",
-    "date": "2026-02-17"
+    "id": "auto-Bio-1771444881323-1",
+    "category": "Bio",
+    "source": "STAT News",
+    "titleKoran": "[STAT 분석] STAT+: Pharmalittle: We’re reading about an FDA reversal on a Moderna vaccine, the U.K. life sciences sector, and more",
+    "oneLineSummary": "The FDA reversed course and told Moderna it would review its application for a new flu vaccine, after refusing to do so ...",
+    "context": "STAT+: Pharmalittle: We’re reading about an FDA reversal on a Moderna vaccine, the U.K. life sciences sector, and more에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "whyImportant": "규제 기관의 승인 방향과 신약 파이프라인의 가치 평가에 직접적인 영향을 주는 STAT의 단독 분석입니다.",
+    "meaningForWork": "임상 및 인허가 담당자는 이 사례가 자사 파이프라인의 전략 수립에 주는 시사점을 분석하고 안전성 데이터를 재점검해야 합니다.",
+    "originalUrl": "https://www.statnews.com/pharmalot/2026/02/18/fda-moderna-vaccines-hhs-kennedy/?utm_campaign=rss",
+    "date": "2026-02-18"
   },
   {
-    "id": "auto-Bio-1771425342205-0",
+    "id": "auto-Bio-1771444881323-2",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 분석] Opinion: I was a Moderna exec when the Covid vaccine rolled out. That spirit of possibility is no more",
@@ -82,29 +106,5 @@
     "meaningForWork": "임상 및 인허가 담당자는 이 사례가 자사 파이프라인의 전략 수립에 주는 시사점을 분석하고 안전성 데이터를 재점검해야 합니다.",
     "originalUrl": "https://www.statnews.com/2026/02/18/moderna-mrna-flu-vaccine-trust-regulatory-uncertainty/?utm_campaign=rss",
     "date": "2026-02-18"
-  },
-  {
-    "id": "auto-Bio-1771425342205-1",
-    "category": "Bio",
-    "source": "STAT News",
-    "titleKoran": "[STAT 분석] STAT+: At drugmakers’ forum, Oz gets a friendly embrace, while Makary faces tough questions",
-    "oneLineSummary": "Two of health secretary Robert F. Kennedy Jr.’s top lieutenants struck decidedly different tones at a forum held Tuesday...",
-    "context": "STAT+: At drugmakers’ forum, Oz gets a friendly embrace, while Makary faces tough questions에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
-    "whyImportant": "규제 기관의 승인 방향과 신약 파이프라인의 가치 평가에 직접적인 영향을 주는 STAT의 단독 분석입니다.",
-    "meaningForWork": "임상 및 인허가 담당자는 이 사례가 자사 파이프라인의 전략 수립에 주는 시사점을 분석하고 안전성 데이터를 재점검해야 합니다.",
-    "originalUrl": "https://www.statnews.com/2026/02/17/pharma-forum-highlights-industry-divide-oz-makary/?utm_campaign=rss",
-    "date": "2026-02-17"
-  },
-  {
-    "id": "auto-Bio-1771425342206-2",
-    "category": "Bio",
-    "source": "STAT News",
-    "titleKoran": "[STAT 분석] STAT+: Psilocybin data could be good enough for approval",
-    "oneLineSummary": "And other biotech news brought to you by The Readout newsletter",
-    "context": "STAT+: Psilocybin data could be good enough for approval에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
-    "whyImportant": "규제 기관의 승인 방향과 신약 파이프라인의 가치 평가에 직접적인 영향을 주는 STAT의 단독 분석입니다.",
-    "meaningForWork": "임상 및 인허가 담당자는 이 사례가 자사 파이프라인의 전략 수립에 주는 시사점을 분석하고 안전성 데이터를 재점검해야 합니다.",
-    "originalUrl": "https://www.statnews.com/2026/02/17/biotech-news-compass-psilocybin-data-for-fda/?utm_campaign=rss",
-    "date": "2026-02-17"
   }
 ]
