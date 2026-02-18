@@ -1,6 +1,6 @@
 [
   {
-    "id": "auto-AI-1771358160767-0",
+    "id": "auto-AI-1771391793140-0",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The Download: the rise of luxury car theft, and fighting antimicrobial resistance",
@@ -12,7 +12,7 @@
     "date": "2026-02-17"
   },
   {
-    "id": "auto-AI-1771358160767-1",
+    "id": "auto-AI-1771391793140-1",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The curious case of the disappearing Lamborghinis",
@@ -24,7 +24,7 @@
     "date": "2026-02-17"
   },
   {
-    "id": "auto-AI-1771358160767-2",
+    "id": "auto-AI-1771391793140-2",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] Tuning into the future of collaboration ",
@@ -36,7 +36,31 @@
     "date": "2026-02-16"
   },
   {
-    "id": "auto-Robot-1771358160921-0",
+    "id": "auto-Robot-1771391793465-0",
+    "category": "Robot",
+    "source": "The Robot Report",
+    "titleKoran": "[Robot Report] Medtronic earns FDA clearance for Stealth AXiS spinal surgery system",
+    "oneLineSummary": "Medtronic built the Stealth AXiS system to support a wide range of surgeon preferences, clinical complexity, and care se...",
+    "context": "Medtronic earns FDA clearance for Stealth AXiS spinal surgery system에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "whyImportant": "로봇의 자율 주행 능력이나 인간과의 협업 안전성 등 산업 현장의 자동화 수준을 한 단계 높이는 중요한 기술적 성과입니다.",
+    "meaningForWork": "현장 자동화 책임자라면 실제 도입 시 환경적 제약 사항과 안전 센서의 신뢰도를 바탕으로 ROI를 재평가해야 합니다.",
+    "originalUrl": "https://www.therobotreport.com/medtronic-earns-fda-clearance-for-stealth-axis-spinal-surgery-system/",
+    "date": "2026-02-17"
+  },
+  {
+    "id": "auto-Robot-1771391793465-1",
+    "category": "Robot",
+    "source": "The Robot Report",
+    "titleKoran": "[Robot Report] IFR releases position paper on AI in robotics",
+    "oneLineSummary": "Artificial intelligence is transforming the robotics field at a rapid pace, according to the International Federation of...",
+    "context": "IFR releases position paper on AI in robotics에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "whyImportant": "로봇의 자율 주행 능력이나 인간과의 협업 안전성 등 산업 현장의 자동화 수준을 한 단계 높이는 중요한 기술적 성과입니다.",
+    "meaningForWork": "현장 자동화 책임자라면 실제 도입 시 환경적 제약 사항과 안전 센서의 신뢰도를 바탕으로 ROI를 재평가해야 합니다.",
+    "originalUrl": "https://www.therobotreport.com/ifr-releases-position-paper-ai-robotics/",
+    "date": "2026-02-17"
+  },
+  {
+    "id": "auto-Robot-1771391793466-2",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] ARM Institute opens project call for military supply chain technology",
@@ -48,31 +72,19 @@
     "date": "2026-02-17"
   },
   {
-    "id": "auto-Robot-1771358160921-1",
-    "category": "Robot",
-    "source": "The Robot Report",
-    "titleKoran": "[Robot Report] How motor design enables different types of robots",
-    "oneLineSummary": "Advances in motor design have allowed different types of robots to both specialize for industrial functions and converge...",
-    "context": "How motor design enables different types of robots에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
-    "whyImportant": "로봇의 자율 주행 능력이나 인간과의 협업 안전성 등 산업 현장의 자동화 수준을 한 단계 높이는 중요한 기술적 성과입니다.",
-    "meaningForWork": "현장 자동화 책임자라면 실제 도입 시 환경적 제약 사항과 안전 센서의 신뢰도를 바탕으로 ROI를 재평가해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/how-motor-design-enables-different-types-of-robots/",
-    "date": "2026-02-16"
+    "id": "auto-Bio-1771391793663-0",
+    "category": "Bio",
+    "source": "STAT News",
+    "titleKoran": "[STAT 분석] STAT+: At drugmakers’ forum, Oz gets a friendly embrace, while Makary faces tough questions",
+    "oneLineSummary": "Two of health secretary Robert F. Kennedy Jr.’s top lieutenants struck decidedly different tones at a forum held Tuesday...",
+    "context": "STAT+: At drugmakers’ forum, Oz gets a friendly embrace, while Makary faces tough questions에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "whyImportant": "규제 기관의 승인 방향과 신약 파이프라인의 가치 평가에 직접적인 영향을 주는 STAT의 단독 분석입니다.",
+    "meaningForWork": "임상 및 인허가 담당자는 이 사례가 자사 파이프라인의 전략 수립에 주는 시사점을 분석하고 안전성 데이터를 재점검해야 합니다.",
+    "originalUrl": "https://www.statnews.com/2026/02/17/pharma-forum-highlights-industry-divide-oz-makary/?utm_campaign=rss",
+    "date": "2026-02-17"
   },
   {
-    "id": "auto-Robot-1771358160921-2",
-    "category": "Robot",
-    "source": "The Robot Report",
-    "titleKoran": "[Robot Report] The keys to designing safe and shared cobot workspaces",
-    "oneLineSummary": "Force- and power-limited robot arms, are only as safe as the quality of cobot workspace design, explains a columnist. Th...",
-    "context": "The keys to designing safe and shared cobot workspaces에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
-    "whyImportant": "로봇의 자율 주행 능력이나 인간과의 협업 안전성 등 산업 현장의 자동화 수준을 한 단계 높이는 중요한 기술적 성과입니다.",
-    "meaningForWork": "현장 자동화 책임자라면 실제 도입 시 환경적 제약 사항과 안전 센서의 신뢰도를 바탕으로 ROI를 재평가해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/keys-designing-safe-shared-cobot-workspaces/",
-    "date": "2026-02-16"
-  },
-  {
-    "id": "auto-Bio-1771358161116-0",
+    "id": "auto-Bio-1771391793663-1",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 분석] STAT+: Psilocybin data could be good enough for approval",
@@ -84,7 +96,7 @@
     "date": "2026-02-17"
   },
   {
-    "id": "auto-Bio-1771358161116-1",
+    "id": "auto-Bio-1771391793663-2",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 분석] STAT+: Pharmalittle: We’re reading about China’s homegrown GLP-1 drugs, a puzzling FDA rejection, and more",
@@ -93,18 +105,6 @@
     "whyImportant": "규제 기관의 승인 방향과 신약 파이프라인의 가치 평가에 직접적인 영향을 주는 STAT의 단독 분석입니다.",
     "meaningForWork": "임상 및 인허가 담당자는 이 사례가 자사 파이프라인의 전략 수립에 주는 시사점을 분석하고 안전성 데이터를 재점검해야 합니다.",
     "originalUrl": "https://www.statnews.com/pharmalot/2026/02/17/india-ireland-china-glp-lilly-novo-obesity-vaccines-peanuts-africa/?utm_campaign=rss",
-    "date": "2026-02-17"
-  },
-  {
-    "id": "auto-Bio-1771358161116-2",
-    "category": "Bio",
-    "source": "STAT News",
-    "titleKoran": "[STAT 분석] STAT+: Ocular’s experimental eye drug beats low dose of Regeneron’s Eylea in late-stage trial",
-    "oneLineSummary": "Ocular now plans to apply for FDA approval, but whether doctors and insurers will favor its new drug is an open question...",
-    "context": "STAT+: Ocular’s experimental eye drug beats low dose of Regeneron’s Eylea in late-stage trial에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
-    "whyImportant": "규제 기관의 승인 방향과 신약 파이프라인의 가치 평가에 직접적인 영향을 주는 STAT의 단독 분석입니다.",
-    "meaningForWork": "임상 및 인허가 담당자는 이 사례가 자사 파이프라인의 전략 수립에 주는 시사점을 분석하고 안전성 데이터를 재점검해야 합니다.",
-    "originalUrl": "https://www.statnews.com/2026/02/17/ocular-therapeutix-axpaxli-wet-amd-treatment-compared-to-eylea-regeneron/?utm_campaign=rss",
     "date": "2026-02-17"
   }
 ]
