@@ -1,6 +1,18 @@
 [
   {
-    "id": "auto-AI-1771511968348-0",
+    "id": "auto-AI-1771530748015-0",
+    "category": "AI",
+    "source": "MIT Technology Review",
+    "titleKoran": "[MIT 분석] Microsoft has a new plan to prove what’s real and what’s AI online",
+    "oneLineSummary": "AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot, like when Whi...",
+    "context": "Microsoft has a new plan to prove what’s real and what’s AI online에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "whyImportant": "인공지능 모델의 성능 한계 돌파나 보안상의 새로운 취약점 발견 등 기술적 임팩트가 매우 큰 보도입니다.",
+    "meaningForWork": "AI 서비스 기획자라면 차세대 모델 도입 시 고려해야 할 인프라 효율성이나 프롬프트 가드레킹 강화 방안을 검토해야 합니다.",
+    "originalUrl": "https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/",
+    "date": "2026-02-19"
+  },
+  {
+    "id": "auto-AI-1771530748015-1",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The Download: autonomous narco submarines, and virtue signaling chatbots",
@@ -12,7 +24,7 @@
     "date": "2026-02-19"
   },
   {
-    "id": "auto-AI-1771511968348-1",
+    "id": "auto-AI-1771530748015-2",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] How uncrewed narco subs could transform the Colombian drug trade",
@@ -24,19 +36,7 @@
     "date": "2026-02-19"
   },
   {
-    "id": "auto-AI-1771511968348-2",
-    "category": "AI",
-    "source": "MIT Technology Review",
-    "titleKoran": "[MIT 분석] The building legal case for global climate justice",
-    "oneLineSummary": "The United States and the European Union grew into economic superpowers by committing climate atrocities. They have burn...",
-    "context": "The building legal case for global climate justice에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
-    "whyImportant": "인공지능 모델의 성능 한계 돌파나 보안상의 새로운 취약점 발견 등 기술적 임팩트가 매우 큰 보도입니다.",
-    "meaningForWork": "AI 서비스 기획자라면 차세대 모델 도입 시 고려해야 할 인프라 효율성이나 프롬프트 가드레킹 강화 방안을 검토해야 합니다.",
-    "originalUrl": "https://www.technologyreview.com/2026/02/19/1132877/legal-climate-justice/",
-    "date": "2026-02-19"
-  },
-  {
-    "id": "auto-Robot-1771511968584-0",
+    "id": "auto-Robot-1771530748254-0",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] Toyota Motor Manufacturing Canada to deploy Agility Robotics’ Digit humanoids",
@@ -48,7 +48,7 @@
     "date": "2026-02-19"
   },
   {
-    "id": "auto-Robot-1771511968584-1",
+    "id": "auto-Robot-1771530748254-1",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] NVIDIA adds Cosmos Policy to its world foundation models",
@@ -60,7 +60,7 @@
     "date": "2026-02-19"
   },
   {
-    "id": "auto-Robot-1771511968584-2",
+    "id": "auto-Robot-1771530748254-2",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] Ottonomy builds Ottumn.AI platform to orchestrate robots, drones, and smart infrastructure",
@@ -72,7 +72,19 @@
     "date": "2026-02-18"
   },
   {
-    "id": "auto-Bio-1771511968749-0",
+    "id": "auto-Bio-1771530748427-0",
+    "category": "Bio",
+    "source": "STAT News",
+    "titleKoran": "[STAT 분석] STAT+: 5 powerful people to know at HHS",
+    "oneLineSummary": "Find out who's on the rise inside RFK Jr.'s federal health department.",
+    "context": "STAT+: 5 powerful people to know at HHS에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "whyImportant": "규제 기관의 승인 방향과 신약 파이프라인의 가치 평가에 직접적인 영향을 주는 STAT의 단독 분석입니다.",
+    "meaningForWork": "임상 및 인허가 담당자는 이 사례가 자사 파이프라인의 전략 수립에 주는 시사점을 분석하고 안전성 데이터를 재점검해야 합니다.",
+    "originalUrl": "https://www.statnews.com/2026/02/19/powerful-people-at-hhs-oz-talks-with-pharma-dc-diagnosis-newsletter/?utm_campaign=rss",
+    "date": "2026-02-19"
+  },
+  {
+    "id": "auto-Bio-1771530748427-1",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 분석] STAT+: Pharmalittle: We’re reading about the FDA pushing OTC meds, its new trial standards, and much more",
@@ -84,7 +96,7 @@
     "date": "2026-02-19"
   },
   {
-    "id": "auto-Bio-1771511968749-1",
+    "id": "auto-Bio-1771530748427-2",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 분석] Opinion: My biggest GLP-1 ethical problem: patients who don’t want to stop",
@@ -94,17 +106,5 @@
     "meaningForWork": "임상 및 인허가 담당자는 이 사례가 자사 파이프라인의 전략 수립에 주는 시사점을 분석하고 안전성 데이터를 재점검해야 합니다.",
     "originalUrl": "https://www.statnews.com/2026/02/19/glp-1-weight-loss-drugs-eating-disorders-doctor/?utm_campaign=rss",
     "date": "2026-02-19"
-  },
-  {
-    "id": "auto-Bio-1771511968749-2",
-    "category": "Bio",
-    "source": "STAT News",
-    "titleKoran": "[STAT 분석] STAT+: New FDA guidance for antibiotic use in food-producing animals prompts criticism over antibiotic resistance",
-    "oneLineSummary": "New FDA guidance on the use of antibiotics in food-producing animals has prompted criticism that it fails to consider th...",
-    "context": "STAT+: New FDA guidance for antibiotic use in food-producing animals prompts criticism over antibiotic resistance에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
-    "whyImportant": "규제 기관의 승인 방향과 신약 파이프라인의 가치 평가에 직접적인 영향을 주는 STAT의 단독 분석입니다.",
-    "meaningForWork": "임상 및 인허가 담당자는 이 사례가 자사 파이프라인의 전략 수립에 주는 시사점을 분석하고 안전성 데이터를 재점검해야 합니다.",
-    "originalUrl": "https://www.statnews.com/pharmalot/2026/02/18/fda-livestock-guidance-antibiotic-resistance-cows-pigs-chickens/?utm_campaign=rss",
-    "date": "2026-02-18"
   }
 ]
