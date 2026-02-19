@@ -1,6 +1,6 @@
 [
   {
-    "id": "auto-AI-1771444880615-0",
+    "id": "auto-AI-1771478100133-0",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] Google DeepMind wants to know if chatbots are just virtue signaling",
@@ -12,7 +12,7 @@
     "date": "2026-02-18"
   },
   {
-    "id": "auto-AI-1771444880615-1",
+    "id": "auto-AI-1771478100133-1",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The Download: a blockchain enigma, and the algorithms governing our lives",
@@ -24,7 +24,7 @@
     "date": "2026-02-18"
   },
   {
-    "id": "auto-AI-1771444880615-2",
+    "id": "auto-AI-1771478100133-2",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The robots who predict the future",
@@ -36,7 +36,19 @@
     "date": "2026-02-18"
   },
   {
-    "id": "auto-Robot-1771444881172-0",
+    "id": "auto-Robot-1771478100287-0",
+    "category": "Robot",
+    "source": "The Robot Report",
+    "titleKoran": "[Robot Report] Ottonomy builds Ottumn.AI platform to orchestrate robots, drones, and smart infrastructure",
+    "oneLineSummary": "Ottonomy built Ottumn.AI on NVIDIA's infrastructure to integrate delivery systems for healthcare, logistics, and smart c...",
+    "context": "Ottonomy builds Ottumn.AI platform to orchestrate robots, drones, and smart infrastructure에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "whyImportant": "로봇의 자율 주행 능력이나 인간과의 협업 안전성 등 산업 현장의 자동화 수준을 한 단계 높이는 중요한 기술적 성과입니다.",
+    "meaningForWork": "현장 자동화 책임자라면 실제 도입 시 환경적 제약 사항과 안전 센서의 신뢰도를 바탕으로 ROI를 재평가해야 합니다.",
+    "originalUrl": "https://www.therobotreport.com/ottonomy-builds-ottumn-ai-platform-to-orchestrate-robots-drones-and-smart-infrastructure/",
+    "date": "2026-02-18"
+  },
+  {
+    "id": "auto-Robot-1771478100287-1",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] igus launches new RBTX online shopping experience for robotics developers",
@@ -48,31 +60,31 @@
     "date": "2026-02-18"
   },
   {
-    "id": "auto-Robot-1771444881172-1",
+    "id": "auto-Robot-1771478100287-2",
     "category": "Robot",
     "source": "The Robot Report",
-    "titleKoran": "[Robot Report] Mitsubishi Electric follows digital-first strategy for drone management",
+    "titleKoran": "[Robot Report] Mitsubishi Electric follows digital-first strategy for advanced air mobility",
     "oneLineSummary": "Mitsubishi Electric United States is focused on helping companies with digital-first initiatives such as AnyMile for dro...",
-    "context": "Mitsubishi Electric follows digital-first strategy for drone management에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "context": "Mitsubishi Electric follows digital-first strategy for advanced air mobility에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
     "whyImportant": "로봇의 자율 주행 능력이나 인간과의 협업 안전성 등 산업 현장의 자동화 수준을 한 단계 높이는 중요한 기술적 성과입니다.",
     "meaningForWork": "현장 자동화 책임자라면 실제 도입 시 환경적 제약 사항과 안전 센서의 신뢰도를 바탕으로 ROI를 재평가해야 합니다.",
     "originalUrl": "https://www.therobotreport.com/mitsubishi-electric-follows-digital-first-strategy-for-drone-management/",
     "date": "2026-02-18"
   },
   {
-    "id": "auto-Robot-1771444881172-2",
-    "category": "Robot",
-    "source": "The Robot Report",
-    "titleKoran": "[Robot Report] Medtronic earns FDA clearance for Stealth AXiS spinal surgery system",
-    "oneLineSummary": "Medtronic built the Stealth AXiS system to support a wide range of surgeon preferences, clinical complexity, and care se...",
-    "context": "Medtronic earns FDA clearance for Stealth AXiS spinal surgery system에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
-    "whyImportant": "로봇의 자율 주행 능력이나 인간과의 협업 안전성 등 산업 현장의 자동화 수준을 한 단계 높이는 중요한 기술적 성과입니다.",
-    "meaningForWork": "현장 자동화 책임자라면 실제 도입 시 환경적 제약 사항과 안전 센서의 신뢰도를 바탕으로 ROI를 재평가해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/medtronic-earns-fda-clearance-for-stealth-axis-spinal-surgery-system/",
-    "date": "2026-02-17"
+    "id": "auto-Bio-1771478100463-0",
+    "category": "Bio",
+    "source": "STAT News",
+    "titleKoran": "[STAT 분석] STAT+: New FDA guidance for antibiotic use in food-producing animals prompts criticism over antibiotic resistance",
+    "oneLineSummary": "New FDA guidance on the use of antibiotics in food-producing animals has prompted criticism that it fails to consider th...",
+    "context": "STAT+: New FDA guidance for antibiotic use in food-producing animals prompts criticism over antibiotic resistance에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "whyImportant": "규제 기관의 승인 방향과 신약 파이프라인의 가치 평가에 직접적인 영향을 주는 STAT의 단독 분석입니다.",
+    "meaningForWork": "임상 및 인허가 담당자는 이 사례가 자사 파이프라인의 전략 수립에 주는 시사점을 분석하고 안전성 데이터를 재점검해야 합니다.",
+    "originalUrl": "https://www.statnews.com/pharmalot/2026/02/18/fda-livestock-guidance-antibiotic-resistance-cows-pigs-chickens/?utm_campaign=rss",
+    "date": "2026-02-18"
   },
   {
-    "id": "auto-Bio-1771444881323-0",
+    "id": "auto-Bio-1771478100463-1",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 분석] STAT+: Investors cheer Compass’ psilocybin data  ",
@@ -84,7 +96,7 @@
     "date": "2026-02-18"
   },
   {
-    "id": "auto-Bio-1771444881323-1",
+    "id": "auto-Bio-1771478100463-2",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 분석] STAT+: Pharmalittle: We’re reading about an FDA reversal on a Moderna vaccine, the U.K. life sciences sector, and more",
@@ -93,18 +105,6 @@
     "whyImportant": "규제 기관의 승인 방향과 신약 파이프라인의 가치 평가에 직접적인 영향을 주는 STAT의 단독 분석입니다.",
     "meaningForWork": "임상 및 인허가 담당자는 이 사례가 자사 파이프라인의 전략 수립에 주는 시사점을 분석하고 안전성 데이터를 재점검해야 합니다.",
     "originalUrl": "https://www.statnews.com/pharmalot/2026/02/18/fda-moderna-vaccines-hhs-kennedy/?utm_campaign=rss",
-    "date": "2026-02-18"
-  },
-  {
-    "id": "auto-Bio-1771444881323-2",
-    "category": "Bio",
-    "source": "STAT News",
-    "titleKoran": "[STAT 분석] Opinion: I was a Moderna exec when the Covid vaccine rolled out. That spirit of possibility is no more",
-    "oneLineSummary": "“The pharmaceutical industry is not the enemy,” writes Richard Hughes IV, who was Moderna’s VP for public policy when th...",
-    "context": "Opinion: I was a Moderna exec when the Covid vaccine rolled out. That spirit of possibility is no more에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
-    "whyImportant": "규제 기관의 승인 방향과 신약 파이프라인의 가치 평가에 직접적인 영향을 주는 STAT의 단독 분석입니다.",
-    "meaningForWork": "임상 및 인허가 담당자는 이 사례가 자사 파이프라인의 전략 수립에 주는 시사점을 분석하고 안전성 데이터를 재점검해야 합니다.",
-    "originalUrl": "https://www.statnews.com/2026/02/18/moderna-mrna-flu-vaccine-trust-regulatory-uncertainty/?utm_campaign=rss",
     "date": "2026-02-18"
   }
 ]
