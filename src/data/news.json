@@ -1,6 +1,18 @@
 [
   {
-    "id": "auto-AI-1771597523847-0",
+    "id": "auto-AI-1771616970908-0",
+    "category": "AI",
+    "source": "MIT Technology Review",
+    "titleKoran": "[MIT 분석] Exclusive eBook: The great Al hype correction of 2025",
+    "oneLineSummary": "2025 was a year of reckoning, including how the heads of the top AI companies made promises they couldn’t keep. In this ...",
+    "context": "Exclusive eBook: The great Al hype correction of 2025에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "whyImportant": "인공지능 모델의 성능 한계 돌파나 보안상의 새로운 취약점 발견 등 기술적 임팩트가 매우 큰 보도입니다.",
+    "meaningForWork": "AI 서비스 기획자라면 차세대 모델 도입 시 고려해야 할 인프라 효율성이나 프롬프트 가드레킹 강화 방안을 검토해야 합니다.",
+    "originalUrl": "https://www.technologyreview.com/2026/02/20/1133368/exclusive-ebook-the-great-al-hype-correction-of-2025/",
+    "date": "2026-02-20"
+  },
+  {
+    "id": "auto-AI-1771616970908-1",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The Download: Microsoft’s online reality check, and the worrying rise in measles cases",
@@ -12,7 +24,7 @@
     "date": "2026-02-20"
   },
   {
-    "id": "auto-AI-1771597523847-1",
+    "id": "auto-AI-1771616970908-2",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] Job titles of the future: Breast biomechanic",
@@ -24,19 +36,31 @@
     "date": "2026-02-20"
   },
   {
-    "id": "auto-AI-1771597523847-2",
-    "category": "AI",
-    "source": "MIT Technology Review",
-    "titleKoran": "[MIT 분석] Community service",
-    "oneLineSummary": "The bird is a beautiful silver-gray, and as she dies twitching in the lasernet I’m grateful for two things: First, that ...",
-    "context": "Community service에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
-    "whyImportant": "인공지능 모델의 성능 한계 돌파나 보안상의 새로운 취약점 발견 등 기술적 임팩트가 매우 큰 보도입니다.",
-    "meaningForWork": "AI 서비스 기획자라면 차세대 모델 도입 시 고려해야 할 인프라 효율성이나 프롬프트 가드레킹 강화 방안을 검토해야 합니다.",
-    "originalUrl": "https://www.technologyreview.com/2026/02/20/1132640/community-service-science-fiction-story/",
+    "id": "auto-Robot-1771616971263-0",
+    "category": "Robot",
+    "source": "The Robot Report",
+    "titleKoran": "[Robot Report] NORD releases digital twin simulation platform for robotics developers",
+    "oneLineSummary": "NORD said it allows engineers to verify whether the drive concept is suitable for the system early in the planning phase...",
+    "context": "NORD releases digital twin simulation platform for robotics developers에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "whyImportant": "로봇의 자율 주행 능력이나 인간과의 협업 안전성 등 산업 현장의 자동화 수준을 한 단계 높이는 중요한 기술적 성과입니다.",
+    "meaningForWork": "현장 자동화 책임자라면 실제 도입 시 환경적 제약 사항과 안전 센서의 신뢰도를 바탕으로 ROI를 재평가해야 합니다.",
+    "originalUrl": "https://www.therobotreport.com/nord-releases-digital-twin-simulation-platform-robotics-development/",
     "date": "2026-02-20"
   },
   {
-    "id": "auto-Robot-1771597524287-0",
+    "id": "auto-Robot-1771616971263-1",
+    "category": "Robot",
+    "source": "The Robot Report",
+    "titleKoran": "[Robot Report] Amazon Robotics shuts down Blue Jay sortation project",
+    "oneLineSummary": "Amazon Robotics grounded the Blue Jay project after only six months, redirecting resources to other fulfillment projects...",
+    "context": "Amazon Robotics shuts down Blue Jay sortation project에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "whyImportant": "로봇의 자율 주행 능력이나 인간과의 협업 안전성 등 산업 현장의 자동화 수준을 한 단계 높이는 중요한 기술적 성과입니다.",
+    "meaningForWork": "현장 자동화 책임자라면 실제 도입 시 환경적 제약 사항과 안전 센서의 신뢰도를 바탕으로 ROI를 재평가해야 합니다.",
+    "originalUrl": "https://www.therobotreport.com/amazon-robotics-shuts-down-blue-jay-sortation-project/",
+    "date": "2026-02-20"
+  },
+  {
+    "id": "auto-Robot-1771616971263-2",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] Toyota Motor Manufacturing Canada to deploy Agility Robotics’ Digit humanoids",
@@ -48,63 +72,39 @@
     "date": "2026-02-19"
   },
   {
-    "id": "auto-Robot-1771597524287-1",
-    "category": "Robot",
-    "source": "The Robot Report",
-    "titleKoran": "[Robot Report] NVIDIA adds Cosmos Policy to its world foundation models",
-    "oneLineSummary": "Cosmos Policy is a new robot control policy that post-trains the Cosmos Predict-2 world foundation model for manipulatio...",
-    "context": "NVIDIA adds Cosmos Policy to its world foundation models에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
-    "whyImportant": "로봇의 자율 주행 능력이나 인간과의 협업 안전성 등 산업 현장의 자동화 수준을 한 단계 높이는 중요한 기술적 성과입니다.",
-    "meaningForWork": "현장 자동화 책임자라면 실제 도입 시 환경적 제약 사항과 안전 센서의 신뢰도를 바탕으로 ROI를 재평가해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/nvidia-adds-cosmos-policy-world-foundation-models/",
-    "date": "2026-02-19"
-  },
-  {
-    "id": "auto-Robot-1771597524288-2",
-    "category": "Robot",
-    "source": "The Robot Report",
-    "titleKoran": "[Robot Report] Ottonomy builds Ottumn.AI platform to orchestrate robots, drones, and smart infrastructure",
-    "oneLineSummary": "Ottonomy built Ottumn.AI on NVIDIA's infrastructure to integrate delivery systems for healthcare, logistics, and smart c...",
-    "context": "Ottonomy builds Ottumn.AI platform to orchestrate robots, drones, and smart infrastructure에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
-    "whyImportant": "로봇의 자율 주행 능력이나 인간과의 협업 안전성 등 산업 현장의 자동화 수준을 한 단계 높이는 중요한 기술적 성과입니다.",
-    "meaningForWork": "현장 자동화 책임자라면 실제 도입 시 환경적 제약 사항과 안전 센서의 신뢰도를 바탕으로 ROI를 재평가해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/ottonomy-builds-ottumn-ai-platform-to-orchestrate-robots-drones-and-smart-infrastructure/",
-    "date": "2026-02-18"
-  },
-  {
-    "id": "auto-Bio-1771597524362-0",
+    "id": "auto-Bio-1771616971435-0",
     "category": "Bio",
     "source": "STAT News",
-    "titleKoran": "[STAT 분석] STAT+: Texas attorney general sues Sanofi for allegedly providing kickbacks to doctors to prescribe its drugs",
-    "oneLineSummary": "The Texas AG has filed a lawsuit accusing Sanofi of providing kickbacks to doctors, in the form of a free network of nur...",
-    "context": "STAT+: Texas attorney general sues Sanofi for allegedly providing kickbacks to doctors to prescribe its drugs에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "titleKoran": "[STAT 분석] STAT+: Up and down the ladder: The latest comings and goings",
+    "oneLineSummary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical ind...",
+    "context": "STAT+: Up and down the ladder: The latest comings and goings에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
     "whyImportant": "규제 기관의 승인 방향과 신약 파이프라인의 가치 평가에 직접적인 영향을 주는 STAT의 단독 분석입니다.",
     "meaningForWork": "임상 및 인허가 담당자는 이 사례가 자사 파이프라인의 전략 수립에 주는 시사점을 분석하고 안전성 데이터를 재점검해야 합니다.",
-    "originalUrl": "https://www.statnews.com/pharmalot/2026/02/19/sanofi-nurses-kickbacks-texas-paxton-insurance/?utm_campaign=rss",
+    "originalUrl": "https://www.statnews.com/pharmalot/2026/02/20/pharma-biotech-jobs-roche-sanofi-daiichi/?utm_campaign=rss",
     "date": "2026-02-20"
   },
   {
-    "id": "auto-Bio-1771597524362-1",
+    "id": "auto-Bio-1771616971435-1",
     "category": "Bio",
     "source": "STAT News",
-    "titleKoran": "[STAT 분석] STAT+: In first speech to her FDA staff, Høeg says she’ll scrutinize RSV shots and SSRIs in pregnancy",
-    "oneLineSummary": "The top drug regulator at the FDA told staff she plans to question the safety of taking SSRIs in pregnancy and of RSV sh...",
-    "context": "STAT+: In first speech to her FDA staff, Høeg says she’ll scrutinize RSV shots and SSRIs in pregnancy에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "titleKoran": "[STAT 분석] STAT+: Element Biosciences launches table-top sequencer capable of $100 genome",
+    "oneLineSummary": "And other biotech news brought to you by The Readout newsletter",
+    "context": "STAT+: Element Biosciences launches table-top sequencer capable of $100 genome에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
     "whyImportant": "규제 기관의 승인 방향과 신약 파이프라인의 가치 평가에 직접적인 영향을 주는 STAT의 단독 분석입니다.",
     "meaningForWork": "임상 및 인허가 담당자는 이 사례가 자사 파이프라인의 전략 수립에 주는 시사점을 분석하고 안전성 데이터를 재점검해야 합니다.",
-    "originalUrl": "https://www.statnews.com/2026/02/19/tracy-beth-hoeg-fda-speech-to-staff-ssris-in-pregnancy-rsv-shots/?utm_campaign=rss",
-    "date": "2026-02-19"
+    "originalUrl": "https://www.statnews.com/2026/02/20/biotech-news-element-biosciences-100-dollar-genome/?utm_campaign=rss",
+    "date": "2026-02-20"
   },
   {
-    "id": "auto-Bio-1771597524362-2",
+    "id": "auto-Bio-1771616971435-2",
     "category": "Bio",
     "source": "STAT News",
-    "titleKoran": "[STAT 분석] STAT+: 5 powerful people to know at HHS",
-    "oneLineSummary": "Find out who's on the rise inside RFK Jr.'s federal health department.",
-    "context": "STAT+: 5 powerful people to know at HHS에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "titleKoran": "[STAT 분석] STAT+: Pharmalittle: We’re reading about an FDA official’s speech, a Grail cancer blood test, and much more",
+    "oneLineSummary": "The FDA's top drug regulator indicated in her first address to staff that she will scrutinize antidepressants and shots ...",
+    "context": "STAT+: Pharmalittle: We’re reading about an FDA official’s speech, a Grail cancer blood test, and much more에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
     "whyImportant": "규제 기관의 승인 방향과 신약 파이프라인의 가치 평가에 직접적인 영향을 주는 STAT의 단독 분석입니다.",
     "meaningForWork": "임상 및 인허가 담당자는 이 사례가 자사 파이프라인의 전략 수립에 주는 시사점을 분석하고 안전성 데이터를 재점검해야 합니다.",
-    "originalUrl": "https://www.statnews.com/2026/02/19/powerful-people-at-hhs-oz-talks-with-pharma-dc-diagnosis-newsletter/?utm_campaign=rss",
-    "date": "2026-02-19"
+    "originalUrl": "https://www.statnews.com/pharmalot/2026/02/20/fda-cancer-antibiotics-kickbacks-otc-patents-covid/?utm_campaign=rss",
+    "date": "2026-02-20"
   }
 ]
