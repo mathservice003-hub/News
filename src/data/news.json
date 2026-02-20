@@ -1,6 +1,6 @@
 [
   {
-    "id": "auto-AI-1771530748015-0",
+    "id": "auto-AI-1771574445940-0",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] Microsoft has a new plan to prove what’s real and what’s AI online",
@@ -12,7 +12,7 @@
     "date": "2026-02-19"
   },
   {
-    "id": "auto-AI-1771530748015-1",
+    "id": "auto-AI-1771574445940-1",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The Download: autonomous narco submarines, and virtue signaling chatbots",
@@ -24,7 +24,7 @@
     "date": "2026-02-19"
   },
   {
-    "id": "auto-AI-1771530748015-2",
+    "id": "auto-AI-1771574445940-2",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] How uncrewed narco subs could transform the Colombian drug trade",
@@ -36,7 +36,7 @@
     "date": "2026-02-19"
   },
   {
-    "id": "auto-Robot-1771530748254-0",
+    "id": "auto-Robot-1771574446154-0",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] Toyota Motor Manufacturing Canada to deploy Agility Robotics’ Digit humanoids",
@@ -48,7 +48,7 @@
     "date": "2026-02-19"
   },
   {
-    "id": "auto-Robot-1771530748254-1",
+    "id": "auto-Robot-1771574446154-1",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] NVIDIA adds Cosmos Policy to its world foundation models",
@@ -60,7 +60,7 @@
     "date": "2026-02-19"
   },
   {
-    "id": "auto-Robot-1771530748254-2",
+    "id": "auto-Robot-1771574446154-2",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] Ottonomy builds Ottumn.AI platform to orchestrate robots, drones, and smart infrastructure",
@@ -72,7 +72,31 @@
     "date": "2026-02-18"
   },
   {
-    "id": "auto-Bio-1771530748427-0",
+    "id": "auto-Bio-1771574446240-0",
+    "category": "Bio",
+    "source": "STAT News",
+    "titleKoran": "[STAT 분석] STAT+: Texas attorney general sues Sanofi for allegedly providing kickbacks to doctors to prescribe its drugs",
+    "oneLineSummary": "The Texas AG has filed a lawsuit accusing Sanofi of providing kickbacks to doctors, in the form of a free network of nur...",
+    "context": "STAT+: Texas attorney general sues Sanofi for allegedly providing kickbacks to doctors to prescribe its drugs에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "whyImportant": "규제 기관의 승인 방향과 신약 파이프라인의 가치 평가에 직접적인 영향을 주는 STAT의 단독 분석입니다.",
+    "meaningForWork": "임상 및 인허가 담당자는 이 사례가 자사 파이프라인의 전략 수립에 주는 시사점을 분석하고 안전성 데이터를 재점검해야 합니다.",
+    "originalUrl": "https://www.statnews.com/pharmalot/2026/02/19/sanofi-nurses-kickbacks-texas-paxton-insurance/?utm_campaign=rss",
+    "date": "2026-02-20"
+  },
+  {
+    "id": "auto-Bio-1771574446240-1",
+    "category": "Bio",
+    "source": "STAT News",
+    "titleKoran": "[STAT 분석] STAT+: In first speech to her FDA staff, Høeg says she’ll scrutinize RSV shots and SSRIs in pregnancy",
+    "oneLineSummary": "The top drug regulator at the FDA told staff she plans to question the safety of taking SSRIs in pregnancy and of RSV sh...",
+    "context": "STAT+: In first speech to her FDA staff, Høeg says she’ll scrutinize RSV shots and SSRIs in pregnancy에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "whyImportant": "규제 기관의 승인 방향과 신약 파이프라인의 가치 평가에 직접적인 영향을 주는 STAT의 단독 분석입니다.",
+    "meaningForWork": "임상 및 인허가 담당자는 이 사례가 자사 파이프라인의 전략 수립에 주는 시사점을 분석하고 안전성 데이터를 재점검해야 합니다.",
+    "originalUrl": "https://www.statnews.com/2026/02/19/tracy-beth-hoeg-fda-speech-to-staff-ssris-in-pregnancy-rsv-shots/?utm_campaign=rss",
+    "date": "2026-02-19"
+  },
+  {
+    "id": "auto-Bio-1771574446240-2",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 분석] STAT+: 5 powerful people to know at HHS",
@@ -81,30 +105,6 @@
     "whyImportant": "규제 기관의 승인 방향과 신약 파이프라인의 가치 평가에 직접적인 영향을 주는 STAT의 단독 분석입니다.",
     "meaningForWork": "임상 및 인허가 담당자는 이 사례가 자사 파이프라인의 전략 수립에 주는 시사점을 분석하고 안전성 데이터를 재점검해야 합니다.",
     "originalUrl": "https://www.statnews.com/2026/02/19/powerful-people-at-hhs-oz-talks-with-pharma-dc-diagnosis-newsletter/?utm_campaign=rss",
-    "date": "2026-02-19"
-  },
-  {
-    "id": "auto-Bio-1771530748427-1",
-    "category": "Bio",
-    "source": "STAT News",
-    "titleKoran": "[STAT 분석] STAT+: Pharmalittle: We’re reading about the FDA pushing OTC meds, its new trial standards, and much more",
-    "oneLineSummary": "FDA Commissioner Marty Makary said he believes “everything should be over the counter” unless a drug is unsafe, addictiv...",
-    "context": "STAT+: Pharmalittle: We’re reading about the FDA pushing OTC meds, its new trial standards, and much more에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
-    "whyImportant": "규제 기관의 승인 방향과 신약 파이프라인의 가치 평가에 직접적인 영향을 주는 STAT의 단독 분석입니다.",
-    "meaningForWork": "임상 및 인허가 담당자는 이 사례가 자사 파이프라인의 전략 수립에 주는 시사점을 분석하고 안전성 데이터를 재점검해야 합니다.",
-    "originalUrl": "https://www.statnews.com/pharmalot/2026/02/19/fda-otc-trials-jnj-novo-obesity-antibiotics-hims-hiv/?utm_campaign=rss",
-    "date": "2026-02-19"
-  },
-  {
-    "id": "auto-Bio-1771530748427-2",
-    "category": "Bio",
-    "source": "STAT News",
-    "titleKoran": "[STAT 분석] Opinion: My biggest GLP-1 ethical problem: patients who don’t want to stop",
-    "oneLineSummary": "Some GLP-1 patients are begging to stay on the drugs just a little bit longer, presenting an ethical dilemma for doctors...",
-    "context": "Opinion: My biggest GLP-1 ethical problem: patients who don’t want to stop에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
-    "whyImportant": "규제 기관의 승인 방향과 신약 파이프라인의 가치 평가에 직접적인 영향을 주는 STAT의 단독 분석입니다.",
-    "meaningForWork": "임상 및 인허가 담당자는 이 사례가 자사 파이프라인의 전략 수립에 주는 시사점을 분석하고 안전성 데이터를 재점검해야 합니다.",
-    "originalUrl": "https://www.statnews.com/2026/02/19/glp-1-weight-loss-drugs-eating-disorders-doctor/?utm_campaign=rss",
     "date": "2026-02-19"
   }
 ]
