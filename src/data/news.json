@@ -1,6 +1,6 @@
 [
   {
-    "id": "auto-AI-1771659924321-0",
+    "id": "auto-AI-1771700698875-0",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] Exclusive eBook: The great Al hype correction of 2025",
@@ -12,7 +12,7 @@
     "date": "2026-02-20"
   },
   {
-    "id": "auto-AI-1771659924322-1",
+    "id": "auto-AI-1771700698875-1",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The Download: Microsoft’s online reality check, and the worrying rise in measles cases",
@@ -24,7 +24,7 @@
     "date": "2026-02-20"
   },
   {
-    "id": "auto-AI-1771659924322-2",
+    "id": "auto-AI-1771700698875-2",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] Job titles of the future: Breast biomechanic",
@@ -36,7 +36,19 @@
     "date": "2026-02-20"
   },
   {
-    "id": "auto-Robot-1771659924627-0",
+    "id": "auto-Robot-1771700699326-0",
+    "category": "Robot",
+    "source": "The Robot Report",
+    "titleKoran": "[Robot Report] Visual drone detection moves into critical infrastructure playbooks",
+    "oneLineSummary": "Learn how operators of critical infrastructure are leveraging advanced technologies to combat the increasing commonality...",
+    "context": "Visual drone detection moves into critical infrastructure playbooks에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
+    "whyImportant": "로봇의 자율 주행 능력이나 인간과의 협업 안전성 등 산업 현장의 자동화 수준을 한 단계 높이는 중요한 기술적 성과입니다.",
+    "meaningForWork": "현장 자동화 책임자라면 실제 도입 시 환경적 제약 사항과 안전 센서의 신뢰도를 바탕으로 ROI를 재평가해야 합니다.",
+    "originalUrl": "https://www.therobotreport.com/visual-drone-detection-moves-into-critical-infrastructure-playbooks/",
+    "date": "2026-02-21"
+  },
+  {
+    "id": "auto-Robot-1771700699326-1",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] Ghost Robotics: Innovating for safety",
@@ -48,7 +60,7 @@
     "date": "2026-02-21"
   },
   {
-    "id": "auto-Robot-1771659924627-1",
+    "id": "auto-Robot-1771700699326-2",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] NORD releases digital twin simulation platform for robotics developers",
@@ -60,19 +72,7 @@
     "date": "2026-02-20"
   },
   {
-    "id": "auto-Robot-1771659924627-2",
-    "category": "Robot",
-    "source": "The Robot Report",
-    "titleKoran": "[Robot Report] Amazon Robotics shuts down Blue Jay sortation project",
-    "oneLineSummary": "Amazon Robotics grounded the Blue Jay project after only six months, redirecting resources to other fulfillment projects...",
-    "context": "Amazon Robotics shuts down Blue Jay sortation project에 관한 심층적인 시장 분석 및 동향 리포트입니다.",
-    "whyImportant": "로봇의 자율 주행 능력이나 인간과의 협업 안전성 등 산업 현장의 자동화 수준을 한 단계 높이는 중요한 기술적 성과입니다.",
-    "meaningForWork": "현장 자동화 책임자라면 실제 도입 시 환경적 제약 사항과 안전 센서의 신뢰도를 바탕으로 ROI를 재평가해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/amazon-robotics-shuts-down-blue-jay-sortation-project/",
-    "date": "2026-02-20"
-  },
-  {
-    "id": "auto-Bio-1771659924705-0",
+    "id": "auto-Bio-1771700699450-0",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 분석] STAT+: Up and down the ladder: The latest comings and goings",
@@ -84,7 +84,7 @@
     "date": "2026-02-20"
   },
   {
-    "id": "auto-Bio-1771659924705-1",
+    "id": "auto-Bio-1771700699450-1",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 분석] STAT+: Element Biosciences launches table-top sequencer capable of $100 genome",
@@ -96,7 +96,7 @@
     "date": "2026-02-20"
   },
   {
-    "id": "auto-Bio-1771659924705-2",
+    "id": "auto-Bio-1771700699450-2",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 분석] STAT+: Pharmalittle: We’re reading about an FDA official’s speech, a Grail cancer blood test, and much more",
