@@ -21,6 +21,8 @@ jobs:
         run: npm install rss-parser
 
       - name: Run Update Script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node scripts/update-news.js
 
       - name: Commit and Push
@@ -28,5 +30,5 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add src/data/news.json
-          git commit -m "Automated: Sync latest news from RSS feeds" || echo "No changes to commit"
+          git commit -m "Automated: Quality Inspected News Sync" || echo "No changes to commit"
           git push

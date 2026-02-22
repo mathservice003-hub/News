@@ -15,7 +15,6 @@ function App() {
   const [selectedNewsId, setSelectedNewsId] = useState<string | null>(null);
   const [activeCategory, setActiveCategory] = useState<Category>('All');
   const [isSyncing, setIsSyncing] = useState(false);
-  const [hasInitialSynced, setHasInitialSynced] = useState(false);
 
   // Constants for sources
   const SOURCES = {
@@ -39,11 +38,15 @@ function App() {
     const unique = Array.from(new Map(filteredInitial.map(item => [item.originalUrl, item])).values());
     setNewsList(unique.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()));
 
-    // Auto-sync for real-time news on first load
+    // Auto-sync is now disabled by default on mount to prioritize 
+    // the high-quality, pre-curated news from news.json.
+    // Users can still manual trigger sync via the button.
+    /*
     if (!hasInitialSynced) {
       handleSyncNews();
       setHasInitialSynced(true);
     }
+    */
   }, []);
 
   const handleSyncNews = async () => {
