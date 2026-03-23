@@ -1,6 +1,6 @@
 [
   {
-    "id": "auto-AI-1774229098350-0",
+    "id": "auto-AI-1774249222762-0",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
@@ -12,7 +12,7 @@
     "date": "2026-03-20"
   },
   {
-    "id": "auto-AI-1774229098350-1",
+    "id": "auto-AI-1774249222762-1",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] OpenAI is throwing everything into building a fully automated researcher",
@@ -24,7 +24,7 @@
     "date": "2026-03-20"
   },
   {
-    "id": "auto-AI-1774229098350-2",
+    "id": "auto-AI-1774249222762-2",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] Mind-altering substances are (still) falling short in clinical trials",
@@ -36,7 +36,7 @@
     "date": "2026-03-20"
   },
   {
-    "id": "auto-Robot-1774229098648-0",
+    "id": "auto-Robot-1774249223194-0",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] How offline programming reduces machining automation deployment times",
@@ -48,7 +48,7 @@
     "date": "2026-03-22"
   },
   {
-    "id": "auto-Robot-1774229098648-1",
+    "id": "auto-Robot-1774249223194-1",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] The great robot race: How companies can balance speed to market and compliance in the U.S.",
@@ -60,19 +60,19 @@
     "date": "2026-03-21"
   },
   {
-    "id": "auto-Robot-1774229098648-2",
+    "id": "auto-Robot-1774249223194-2",
     "category": "Robot",
     "source": "The Robot Report",
-    "titleKoran": "[Robot Report] Building tomorrow: How Bedrock Robotics is changing the construction industry",
+    "titleKoran": "[Robot Report] Investor makes a case for Europe as a new frontier for physical AI",
     "oneLineSummary": "로봇 공학 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"Building tomorrow: How Bedrock Robotics is changing the construction industry\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Our guest this week is Boris Sofman, co-founder and CEO of Bedrock Robotics; Brianna Wessling recaps...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"Investor makes a case for Europe as a new frontier for physical AI\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Europe has expertise in robotics, AI, and spatial computing that could lead to an era of deep-tech l...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
     "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
     "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/building-tomorrow-how-bedrock-robotics-changing-construction-industry/",
-    "date": "2026-03-20"
+    "originalUrl": "https://www.therobotreport.com/investor-makes-case-europe-new-frontier-physical-ai/",
+    "date": "2026-03-21"
   },
   {
-    "id": "auto-Bio-1774229098771-0",
+    "id": "auto-Bio-1774249223371-0",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 리포트] STAT+: Iran war has not disrupted pharma supply chains. That could change if conflict is prolonged",
@@ -84,7 +84,7 @@
     "date": "2026-03-20"
   },
   {
-    "id": "auto-Bio-1774229098771-1",
+    "id": "auto-Bio-1774249223371-1",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 리포트] STAT+: Medicare chief says TrumpRx is meant to be narrow in scope",
@@ -96,7 +96,7 @@
     "date": "2026-03-20"
   },
   {
-    "id": "auto-Bio-1774229098771-2",
+    "id": "auto-Bio-1774249223371-2",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 리포트] STAT+: Up and down the ladder: The latest comings and goings",
