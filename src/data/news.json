@@ -1,6 +1,6 @@
 [
   {
-    "id": "auto-AI-1775048394980-0",
+    "id": "auto-AI-1775093224950-0",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The Download: gig workers training humanoids, and better AI benchmarks",
@@ -12,7 +12,7 @@
     "date": "2026-04-01"
   },
   {
-    "id": "auto-AI-1775048394980-1",
+    "id": "auto-AI-1775093224950-1",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The gig workers who are training humanoid robots at home",
@@ -24,7 +24,7 @@
     "date": "2026-04-01"
   },
   {
-    "id": "auto-AI-1775048394980-2",
+    "id": "auto-AI-1775093224951-2",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] Shifting to AI model customization is an architectural imperative",
@@ -36,75 +36,75 @@
     "date": "2026-03-31"
   },
   {
-    "id": "auto-Robot-1775048395341-0",
+    "id": "auto-Robot-1775093225248-0",
     "category": "Robot",
     "source": "The Robot Report",
-    "titleKoran": "[Robot Report] Surgical robotics: Why motion architecture matters more than ever",
+    "titleKoran": "[Robot Report] Top 10 robotics developments of March 2026",
     "oneLineSummary": "로봇 공학 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"Surgical robotics: Why motion architecture matters more than ever\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"By Antonio Herrera, Senior Industry Manager, Portescap Surgical robotics has entered its most rapid ...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"Top 10 robotics developments of March 2026\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Smart Factory & Automation World and NVIDIA GTC both brought an avalanche of new robotics and AI new...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
     "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
     "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/surgical-robotics-why-motion-architecture-matters-more-than-ever/",
+    "originalUrl": "https://www.therobotreport.com/top-10-robotics-developments-march-2026/",
     "date": "2026-04-01"
   },
   {
-    "id": "auto-Robot-1775048395341-1",
+    "id": "auto-Robot-1775093225248-1",
     "category": "Robot",
     "source": "The Robot Report",
-    "titleKoran": "[Robot Report] Learn how to build reliable robots at scale in Robotics Summit keynote",
+    "titleKoran": "[Robot Report] PhAIL ranks top robotics foundation models on real hardware",
     "oneLineSummary": "로봇 공학 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"Learn how to build reliable robots at scale in Robotics Summit keynote\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"In the opening panel of this year's Robotics Summit, learn how to create robots that are reliable an...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"PhAIL ranks top robotics foundation models on real hardware\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Positronic Robotics has launched PhAIL, a benchmark evaluating physical AI models on commercial task...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
     "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
     "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/learn-how-build-reliable-robots-scale-robotics-summit-keynote/",
-    "date": "2026-03-31"
-  },
-  {
-    "id": "auto-Robot-1775048395341-2",
-    "category": "Robot",
-    "source": "The Robot Report",
-    "titleKoran": "[Robot Report] Saronic raises $1.75B to build autonomous ships at scale",
-    "oneLineSummary": "로봇 공학 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"Saronic raises $1.75B to build autonomous ships at scale\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Saronic plans to use the funding to scale production of its portfolio of autonomous surface vessels ...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
-    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
-    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/saronic-raises-1-75b-build-autonomous-ships-scale/",
-    "date": "2026-03-31"
-  },
-  {
-    "id": "auto-Bio-1775048395524-0",
-    "category": "Bio",
-    "source": "STAT News",
-    "titleKoran": "[STAT 리포트] STAT+: The biotech scorecard for the second quarter: 23 stock-moving events to watch",
-    "oneLineSummary": "바이오/제약 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 바이오/제약 산업 내에서 가장 주목받고 있는 이슈인 \"STAT+: The biotech scorecard for the second quarter: 23 stock-moving events to watch\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Here is STAT’s biotech scorecard, our regular ledger of stock-moving biotech events, for the second ...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
-    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
-    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.statnews.com/2026/04/01/biotech-scorecard-second-quarter/?utm_campaign=rss",
+    "originalUrl": "https://www.therobotreport.com/phail-ranks-robotics-foundation-models-real-hardware/",
     "date": "2026-04-01"
   },
   {
-    "id": "auto-Bio-1775048395524-1",
-    "category": "Bio",
-    "source": "STAT News",
-    "titleKoran": "[STAT 리포트] STAT+: The HSA industry makes its MAHA pitch",
-    "oneLineSummary": "바이오/제약 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 바이오/제약 산업 내에서 가장 주목받고 있는 이슈인 \"STAT+: The HSA industry makes its MAHA pitch\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"A new lobbying group tied to the health savings account industry is pushing hard to make HSAs far mo...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "id": "auto-Robot-1775093225248-2",
+    "category": "Robot",
+    "source": "The Robot Report",
+    "titleKoran": "[Robot Report] Brain Corp unveils BrainOS Clean 2.0 in partnership with Tennant",
+    "oneLineSummary": "로봇 공학 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
+    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"Brain Corp unveils BrainOS Clean 2.0 in partnership with Tennant\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Brain Corp’s BrainOS Clean 2.0 introduces SelfPath AI, enabling Tennant robots to autonomously map a...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
     "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
     "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.statnews.com/2026/03/31/hsa-industry-lobbying-trump-congress-maha-rough-stretch-surgeon-general/?utm_campaign=rss",
-    "date": "2026-03-31"
+    "originalUrl": "https://www.therobotreport.com/brain-corp-unveils-brainos-clean-2-0-partnership-tennant/",
+    "date": "2026-04-01"
   },
   {
-    "id": "auto-Bio-1775048395524-2",
+    "id": "auto-Bio-1775093225463-0",
     "category": "Bio",
     "source": "STAT News",
-    "titleKoran": "[STAT 리포트] STAT+: Pharmalittle: We’re reading about pharma delaying launches in Europe, Lilly and Biogen deals, and more",
+    "titleKoran": "[STAT 리포트] STAT+: Makary marks one year at FDA with focus on achievements in speech to staff",
     "oneLineSummary": "바이오/제약 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 바이오/제약 산업 내에서 가장 주목받고 있는 이슈인 \"STAT+: Pharmalittle: We’re reading about pharma delaying launches in Europe, Lilly and Biogen deals, and more\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Drugmakers are delaying launches of some new medicines in Europe as the industry grapples with U.S. ...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "context": "본 보도는 최근 바이오/제약 산업 내에서 가장 주목받고 있는 이슈인 \"STAT+: Makary marks one year at FDA with focus on achievements in speech to staff\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"The FDA commissioner praised staff and listed his accomplishments in a speech to workers....\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
     "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
     "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.statnews.com/pharmalot/2026/03/31/pharma-delays-european-launches-lilly-biogen-deals-gilead/?utm_campaign=rss",
-    "date": "2026-03-31"
+    "originalUrl": "https://www.statnews.com/2026/04/01/fda-commissioner-makary-one-year-anniversary-speech-to-staff/?utm_campaign=rss",
+    "date": "2026-04-01"
+  },
+  {
+    "id": "auto-Bio-1775093225463-1",
+    "category": "Bio",
+    "source": "STAT News",
+    "titleKoran": "[STAT 리포트] STAT+: Government watchdog urges FDA to finalize guidance for advisory committee conflicts of interest",
+    "oneLineSummary": "바이오/제약 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
+    "context": "본 보도는 최근 바이오/제약 산업 내에서 가장 주목받고 있는 이슈인 \"STAT+: Government watchdog urges FDA to finalize guidance for advisory committee conflicts of interest\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"The FDA has often failed to share information on how it determines whether advisory committee member...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
+    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
+    "originalUrl": "https://www.statnews.com/pharmalot/2026/04/01/government-watchdog-urges-fda-finalize-guidance-committee-conflicts/?utm_campaign=rss",
+    "date": "2026-04-01"
+  },
+  {
+    "id": "auto-Bio-1775093225464-2",
+    "category": "Bio",
+    "source": "STAT News",
+    "titleKoran": "[STAT 리포트] Eli Lilly’s obesity pill approved by FDA, setting up fierce competition with Novo Nordisk",
+    "oneLineSummary": "바이오/제약 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
+    "context": "본 보도는 최근 바이오/제약 산업 내에서 가장 주목받고 있는 이슈인 \"Eli Lilly’s obesity pill approved by FDA, setting up fierce competition with Novo Nordisk\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Eli Lilly’s obesity pill was approved by the FDA, setting it up for fierce competition against Novo ...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
+    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
+    "originalUrl": "https://www.statnews.com/2026/04/01/eli-lilly-obesity-pill-approved-orforglipron-foundayo/?utm_campaign=rss",
+    "date": "2026-04-01"
   }
 ]
