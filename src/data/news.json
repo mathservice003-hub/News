@@ -1,42 +1,42 @@
 [
   {
-    "id": "auto-AI-1777255257596-0",
+    "id": "auto-AI-1777296057478-0",
+    "category": "AI",
+    "source": "MIT Technology Review",
+    "titleKoran": "[MIT 분석] Rebuilding the data stack for AI",
+    "oneLineSummary": "인공지능(AI) 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
+    "context": "본 보도는 최근 인공지능(AI) 산업 내에서 가장 주목받고 있는 이슈인 \"Rebuilding the data stack for AI\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Artificial intelligence may be dominating boardroom agendas, but many enterprises are discovering th...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
+    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
+    "originalUrl": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/",
+    "date": "2026-04-27"
+  },
+  {
+    "id": "auto-AI-1777296057478-1",
+    "category": "AI",
+    "source": "MIT Technology Review",
+    "titleKoran": "[MIT 분석] The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
+    "oneLineSummary": "인공지능(AI) 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
+    "context": "본 보도는 최근 인공지능(AI) 산업 내에서 가장 주목받고 있는 이슈인 \"The Download: DeepSeek’s latest AI breakthrough, and the race to build world models\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
+    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
+    "originalUrl": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+    "date": "2026-04-27"
+  },
+  {
+    "id": "auto-AI-1777296057478-2",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] Three reasons why DeepSeek’s new model matters",
     "oneLineSummary": "인공지능(AI) 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 인공지능(AI) 산업 내에서 가장 주목받고 있는 이슈인 \"Three reasons why DeepSeek’s new model matters\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. N...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "context": "본 보도는 최근 인공지능(AI) 산업 내에서 가장 주목받고 있는 이슈인 \"Three reasons why DeepSeek’s new model matters\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"On April 24, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model....\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
     "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
     "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
     "originalUrl": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
     "date": "2026-04-24"
   },
   {
-    "id": "auto-AI-1777255257596-1",
-    "category": "AI",
-    "source": "MIT Technology Review",
-    "titleKoran": "[MIT 분석] The Download: supercharged scams and studying AI healthcare",
-    "oneLineSummary": "인공지능(AI) 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 인공지능(AI) 산업 내에서 가장 주목받고 있는 이슈인 \"The Download: supercharged scams and studying AI healthcare\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
-    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
-    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
-    "date": "2026-04-24"
-  },
-  {
-    "id": "auto-AI-1777255257596-2",
-    "category": "AI",
-    "source": "MIT Technology Review",
-    "titleKoran": "[MIT 분석] Health-care AI is here. We don’t know if it actually helps patients.",
-    "oneLineSummary": "인공지능(AI) 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 인공지능(AI) 산업 내에서 가장 주목받고 있는 이슈인 \"Health-care AI is here. We don’t know if it actually helps patients.\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
-    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
-    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
-    "date": "2026-04-24"
-  },
-  {
-    "id": "auto-Robot-1777255257750-0",
+    "id": "auto-Robot-1777296057587-0",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] Look back on 10 years of legged robots with Ghost Robotics at the Robotics Summit",
@@ -48,7 +48,7 @@
     "date": "2026-04-26"
   },
   {
-    "id": "auto-Robot-1777255257750-1",
+    "id": "auto-Robot-1777296057587-1",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] ABB Robotics launches PoWa cobot family targeting industrial tasks",
@@ -60,7 +60,7 @@
     "date": "2026-04-25"
   },
   {
-    "id": "auto-Robot-1777255257750-2",
+    "id": "auto-Robot-1777296057587-2",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] From sci-fi to reality: Physical AI’s future with Dr. Jan Liphardt",
@@ -72,39 +72,39 @@
     "date": "2026-04-24"
   },
   {
-    "id": "auto-Bio-1777255257847-0",
+    "id": "auto-Bio-1777296057709-0",
     "category": "Bio",
     "source": "STAT News",
-    "titleKoran": "[STAT 리포트] STAT+: FDA to speed up review of three psychedelics as mental health treatments",
+    "titleKoran": "[STAT 리포트] STAT+: Astellas retries XLMTM gene therapy after deaths",
     "oneLineSummary": "바이오/제약 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 바이오/제약 산업 내에서 가장 주목받고 있는 이슈인 \"STAT+: FDA to speed up review of three psychedelics as mental health treatments\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Trump's embrace of psychedelics and cannabis is shaking up the GOP’s relationship with mind-altering...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "context": "본 보도는 최근 바이오/제약 산업 내에서 가장 주목받고 있는 이슈인 \"STAT+: Astellas retries XLMTM gene therapy after deaths\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Veradermics' hair loss pill late-stage trial success, FDA fast-tracks reviews for psychedelics, and ...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
     "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
     "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.statnews.com/2026/04/24/trump-psychedelic-drugs-fda-priority-review-mental-health-treatment/?utm_campaign=rss",
-    "date": "2026-04-24"
+    "originalUrl": "https://www.statnews.com/2026/04/27/biotech-news-astellas-retries-xlmtm-gene-therapy-after-deaths/?utm_campaign=rss",
+    "date": "2026-04-27"
   },
   {
-    "id": "auto-Bio-1777255257847-1",
+    "id": "auto-Bio-1777296057709-1",
     "category": "Bio",
     "source": "STAT News",
-    "titleKoran": "[STAT 리포트] STAT+: Up and down the ladder: The latest comings and goings",
+    "titleKoran": "[STAT 리포트] STAT+: Pharmalittle: We’re reading about a Lilly deal, an Intellia CRISPR rare-disease treatment, and more",
     "oneLineSummary": "바이오/제약 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 바이오/제약 산업 내에서 가장 주목받고 있는 이슈인 \"STAT+: Up and down the ladder: The latest comings and goings\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"From new hires to departures, promotions and transfers, here are the latest comings and goings in th...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "context": "본 보도는 최근 바이오/제약 산업 내에서 가장 주목받고 있는 이슈인 \"STAT+: Pharmalittle: We’re reading about a Lilly deal, an Intellia CRISPR rare-disease treatment, and more\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Intellia disclosed that a single dose of its gene editing treatment dramatically reduced swelling at...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
     "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
     "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.statnews.com/pharmalot/2026/04/24/jobs-up-down-ladder-latest-comings-goings/?utm_campaign=rss",
-    "date": "2026-04-24"
+    "originalUrl": "https://www.statnews.com/pharmalot/2026/04/27/lilly-deal-intellia-crispr-treatment-for-rare-disease/?utm_campaign=rss",
+    "date": "2026-04-27"
   },
   {
-    "id": "auto-Bio-1777255257847-2",
+    "id": "auto-Bio-1777296057709-2",
     "category": "Bio",
     "source": "STAT News",
-    "titleKoran": "[STAT 리포트] STAT+: Pharmalittle: We’re reading about a Trump deal with Regeneron, reclassifying medical marijuana, and more",
+    "titleKoran": "[STAT 리포트] STAT+: Intellia says CRISPR-based treatment for rare disease reduced swelling attacks in pivotal trial",
     "oneLineSummary": "바이오/제약 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 바이오/제약 산업 내에서 가장 주목받고 있는 이슈인 \"STAT+: Pharmalittle: We’re reading about a Trump deal with Regeneron, reclassifying medical marijuana, and more\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"President Trump heralded a drug-pricing agreement with Regeneron, closing the last of 17 deals sough...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "context": "본 보도는 최근 바이오/제약 산업 내에서 가장 주목받고 있는 이슈인 \"STAT+: Intellia says CRISPR-based treatment for rare disease reduced swelling attacks in pivotal trial\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"With good results from Intellia, the CRISPR field faces the question: How attractive will the one-an...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
     "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
     "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.statnews.com/pharmalot/2026/04/24/trump-deal-with-regeneron-reclassifying-medical-marijuana/?utm_campaign=rss",
-    "date": "2026-04-24"
+    "originalUrl": "https://www.statnews.com/2026/04/27/intellia-therapeutics-phase-3-trial-hereditary-angioedema-crispr-treatment/?utm_campaign=rss",
+    "date": "2026-04-27"
   }
 ]
