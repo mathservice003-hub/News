@@ -1,6 +1,6 @@
 [
   {
-    "id": "auto-AI-1778399917802-0",
+    "id": "auto-AI-1778417956231-0",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
@@ -12,7 +12,7 @@
     "date": "2026-05-08"
   },
   {
-    "id": "auto-AI-1778399917802-1",
+    "id": "auto-AI-1778417956231-1",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] Here’s what you need to know about the cruise ship hantavirus outbreak",
@@ -24,7 +24,7 @@
     "date": "2026-05-08"
   },
   {
-    "id": "auto-AI-1778399917802-2",
+    "id": "auto-AI-1778417956231-2",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The Download: AI malaise and babymaking tech",
@@ -36,7 +36,19 @@
     "date": "2026-05-08"
   },
   {
-    "id": "auto-Robot-1778399917932-0",
+    "id": "auto-Robot-1778417956351-0",
+    "category": "Robot",
+    "source": "The Robot Report",
+    "titleKoran": "[Robot Report] How to engineer robot tracks and 7th axis systems for real-world environments",
+    "oneLineSummary": "로봇 공학 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
+    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"How to engineer robot tracks and 7th axis systems for real-world environments\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Experts from Güdel will focus on how harsh and dirty environments impact robot tracks and long-axis ...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
+    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
+    "originalUrl": "https://www.therobotreport.com/how-to-engineer-robot-tracks-7th-axis-systems-real-world-environments/",
+    "date": "2026-05-10"
+  },
+  {
+    "id": "auto-Robot-1778417956351-1",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] Cognex releases fully integrated AI-powered vision system for robotics",
@@ -48,7 +60,7 @@
     "date": "2026-05-09"
   },
   {
-    "id": "auto-Robot-1778399917932-1",
+    "id": "auto-Robot-1778417956351-2",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] Why traditional robotics data collection is obsolete and what replaces it",
@@ -60,19 +72,7 @@
     "date": "2026-05-08"
   },
   {
-    "id": "auto-Robot-1778399917932-2",
-    "category": "Robot",
-    "source": "The Robot Report",
-    "titleKoran": "[Robot Report] Learn how to successfully design hospital logistics robots at the Robotics Summit",
-    "oneLineSummary": "로봇 공학 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"Learn how to successfully design hospital logistics robots at the Robotics Summit\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Experts from Rovex Technologies, SKA Robotics, and ST Engineering Aethon will discuss design conside...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
-    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
-    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/learn-how-to-successfully-design-hospital-logistics-robots-2026-robotics-summit/",
-    "date": "2026-05-08"
-  },
-  {
-    "id": "auto-Bio-1778399918124-0",
+    "id": "auto-Bio-1778417956455-0",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 리포트] Trump reportedly plans to fire FDA Commissioner Makary",
@@ -84,7 +84,7 @@
     "date": "2026-05-08"
   },
   {
-    "id": "auto-Bio-1778399918124-1",
+    "id": "auto-Bio-1778417956455-1",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 리포트] STAT+: Capricor Therapeutics accuses Nippon Shinyaku of slow-walking plans on Duchenne drug",
@@ -96,7 +96,7 @@
     "date": "2026-05-08"
   },
   {
-    "id": "auto-Bio-1778399918125-2",
+    "id": "auto-Bio-1778417956455-2",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 리포트] STAT+: Up and down the ladder: The latest comings and goings",
