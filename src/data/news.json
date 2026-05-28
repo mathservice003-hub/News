@@ -1,6 +1,6 @@
 [
   {
-    "id": "auto-AI-1779935184139-0",
+    "id": "auto-AI-1779961695341-0",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The Download: keeping up with AI, and the future of IVF",
@@ -12,7 +12,7 @@
     "date": "2026-05-27"
   },
   {
-    "id": "auto-AI-1779935184140-1",
+    "id": "auto-AI-1779961695341-1",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] Rethinking organizational design in the age of agentic AI",
@@ -24,7 +24,7 @@
     "date": "2026-05-26"
   },
   {
-    "id": "auto-AI-1779935184140-2",
+    "id": "auto-AI-1779961695341-2",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The Download: puncturing the AI jobs panic",
@@ -36,7 +36,7 @@
     "date": "2026-05-26"
   },
   {
-    "id": "auto-Robot-1779935184353-0",
+    "id": "auto-Robot-1779961695448-0",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] A guide to Day 1 of the 2026 Robotics Summit & Expo",
@@ -48,7 +48,7 @@
     "date": "2026-05-27"
   },
   {
-    "id": "auto-Robot-1779935184353-1",
+    "id": "auto-Robot-1779961695448-1",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] Why robots still struggle to see the real world",
@@ -60,7 +60,7 @@
     "date": "2026-05-27"
   },
   {
-    "id": "auto-Robot-1779935184353-2",
+    "id": "auto-Robot-1779961695449-2",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] How humanoids learn to read the room",
@@ -72,7 +72,19 @@
     "date": "2026-05-26"
   },
   {
-    "id": "auto-Bio-1779935184556-0",
+    "id": "auto-Bio-1779961695633-0",
+    "category": "Bio",
+    "source": "STAT News",
+    "titleKoran": "[STAT 리포트] STAT+: Trump’s drug-pricing deals set to be tested by new product launches",
+    "oneLineSummary": "바이오/제약 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
+    "context": "본 보도는 최근 바이오/제약 산업 내에서 가장 주목받고 있는 이슈인 \"STAT+: Trump’s drug-pricing deals set to be tested by new product launches\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"The public is about to get its first look at the prices of drugs launched since President Trump stru...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
+    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
+    "originalUrl": "https://www.statnews.com/2026/05/28/trump-most-favored-nation-drug-pricing-secrets-revealed-soon/?utm_campaign=rss",
+    "date": "2026-05-28"
+  },
+  {
+    "id": "auto-Bio-1779961695633-1",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 리포트] STAT+: Kailera’s own ‘triple-G’ drug also looks very powerful",
@@ -84,7 +96,7 @@
     "date": "2026-05-27"
   },
   {
-    "id": "auto-Bio-1779935184557-1",
+    "id": "auto-Bio-1779961695633-2",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 리포트] STAT+: Pharmalittle: We’re reading about an AstraZeneca breast cancer pill, an ADAP deal in Florida, and more",
@@ -94,17 +106,5 @@
     "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
     "originalUrl": "https://www.statnews.com/pharmalot/2026/05/27/astrazeneca-breast-cancer-pill-adap-deal-in-florida/?utm_campaign=rss",
     "date": "2026-05-27"
-  },
-  {
-    "id": "auto-Bio-1779935184557-2",
-    "category": "Bio",
-    "source": "STAT News",
-    "titleKoran": "[STAT 리포트] STAT+: Praise for FDA’s acting commissioner",
-    "oneLineSummary": "바이오/제약 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 바이오/제약 산업 내에서 가장 주목받고 있는 이슈인 \"STAT+: Praise for FDA’s acting commissioner\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Kyle Diamantas doesn't have the typical CV for an FDA commissioner, but he's earning early praise....\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
-    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
-    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.statnews.com/2026/05/26/kyle-diamantas-fda-draws-praise-nih-leadership-vacuum-dc-diagnosis/?utm_campaign=rss",
-    "date": "2026-05-26"
   }
 ]
