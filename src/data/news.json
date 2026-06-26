@@ -1,6 +1,6 @@
 [
   {
-    "id": "auto-AI-1782416800508-0",
+    "id": "auto-AI-1782441334633-0",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] Repositioning retail for the AI era",
@@ -12,7 +12,7 @@
     "date": "2026-06-25"
   },
   {
-    "id": "auto-AI-1782416800509-1",
+    "id": "auto-AI-1782441334633-1",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
@@ -24,7 +24,7 @@
     "date": "2026-06-25"
   },
   {
-    "id": "auto-AI-1782416800509-2",
+    "id": "auto-AI-1782441334633-2",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] What Europe’s heat wave means for the power grid",
@@ -36,7 +36,19 @@
     "date": "2026-06-25"
   },
   {
-    "id": "auto-Robot-1782416800695-0",
+    "id": "auto-Robot-1782441334727-0",
+    "category": "Robot",
+    "source": "The Robot Report",
+    "titleKoran": "[Robot Report] Hirebotics offers no-code, explosion-proof cobot for painting",
+    "oneLineSummary": "로봇 공학 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
+    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"Hirebotics offers no-code, explosion-proof cobot for painting\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Hirebotics' Cobot Painter supports stationary painting, with parts placed in a paint booth where rob...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
+    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
+    "originalUrl": "https://www.therobotreport.com/hirebotics-offers-no-code-explosion-proof-cobot-for-painting/",
+    "date": "2026-06-25"
+  },
+  {
+    "id": "auto-Robot-1782441334728-1",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] Robust.AI chooses Aptiv PULSE sensor for Gen 3 Carter mobile robot",
@@ -48,7 +60,7 @@
     "date": "2026-06-25"
   },
   {
-    "id": "auto-Robot-1782416800695-1",
+    "id": "auto-Robot-1782441334728-2",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] ARM Institute expands RoboticsCareer.org into physical AI",
@@ -60,19 +72,7 @@
     "date": "2026-06-25"
   },
   {
-    "id": "auto-Robot-1782416800695-2",
-    "category": "Robot",
-    "source": "The Robot Report",
-    "titleKoran": "[Robot Report] Reservoir acquires Contain to scale agtech startups",
-    "oneLineSummary": "로봇 공학 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"Reservoir acquires Contain to scale agtech startups\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Reservoir has acquired agriculture finance platform Contain,, naming founder Nicola Kerslake general...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
-    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
-    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/reservoir-acquires-contain-to-scale-agtech-startups/",
-    "date": "2026-06-24"
-  },
-  {
-    "id": "auto-Bio-1782416800811-0",
+    "id": "auto-Bio-1782441334901-0",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 리포트] STAT+: Cassidy proposes bill to rein in 340B drug discount program",
@@ -84,7 +84,7 @@
     "date": "2026-06-25"
   },
   {
-    "id": "auto-Bio-1782416800811-1",
+    "id": "auto-Bio-1782441334902-1",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 리포트] STAT+: Democrats press White House on who got special access to Eli Lilly’s new obesity drug",
@@ -96,7 +96,7 @@
     "date": "2026-06-25"
   },
   {
-    "id": "auto-Bio-1782416800811-2",
+    "id": "auto-Bio-1782441334902-2",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 리포트] STAT+: The China debate gets louder in Washington",
