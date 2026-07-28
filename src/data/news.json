@@ -1,6 +1,6 @@
 [
   {
-    "id": "auto-AI-1785179665125-0",
+    "id": "auto-AI-1785203253041-0",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. ",
@@ -12,7 +12,7 @@
     "date": "2026-07-27"
   },
   {
-    "id": "auto-AI-1785179665125-1",
+    "id": "auto-AI-1785203253041-1",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] How lasers could help provide fuel for nuclear reactors",
@@ -24,7 +24,7 @@
     "date": "2026-07-27"
   },
   {
-    "id": "auto-AI-1785179665125-2",
+    "id": "auto-AI-1785203253041-2",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The Download: lasers for nuclear fuel, and organ preservation advances",
@@ -36,7 +36,7 @@
     "date": "2026-07-27"
   },
   {
-    "id": "auto-Robot-1785179665340-0",
+    "id": "auto-Robot-1785203253217-0",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] NORD expands compact NORDAC VFD family to 200 hp",
@@ -48,7 +48,19 @@
     "date": "2026-07-27"
   },
   {
-    "id": "auto-Robot-1785179665340-1",
+    "id": "auto-Robot-1785203253217-1",
+    "category": "Robot",
+    "source": "The Robot Report",
+    "titleKoran": "[Robot Report] Kraken Technology raises Series B funding for autonomous vessels",
+    "oneLineSummary": "로봇 공학 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
+    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"Kraken Technology raises Series B funding for autonomous vessels\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Kraken Technology plans to use its funding to continue developing uncrewed surface vessels and local...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
+    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
+    "originalUrl": "https://www.therobotreport.com/kraken-technology-raises-series-b-funding-autonomous-vessels/",
+    "date": "2026-07-27"
+  },
+  {
+    "id": "auto-Robot-1785203253217-2",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] Magmotor makes motors for a changing world for 150+ years",
@@ -60,19 +72,19 @@
     "date": "2026-07-26"
   },
   {
-    "id": "auto-Robot-1785179665341-2",
-    "category": "Robot",
-    "source": "The Robot Report",
-    "titleKoran": "[Robot Report] Photos: First look at J&J’s Ottava surgical robot",
-    "oneLineSummary": "로봇 공학 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"Photos: First look at J&J’s Ottava surgical robot\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"The robot-in-table design is meant to save space in the operating room, with J&J saying its novel ar...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "id": "auto-Bio-1785203253381-0",
+    "category": "Bio",
+    "source": "STAT News",
+    "titleKoran": "[STAT 리포트] STAT+: HIV resurgence is feared as global funding to combat the disease falls 18%",
+    "oneLineSummary": "바이오/제약 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
+    "context": "본 보도는 최근 바이오/제약 산업 내에서 가장 주목받고 있는 이슈인 \"STAT+: HIV resurgence is feared as global funding to combat the disease falls 18%\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"The world risks a resurgence of the HIV epidemic after international financing to combat the disease...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
     "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
     "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/photos-first-look-at-jjs-ottava-surgical-robot/",
-    "date": "2026-07-25"
+    "originalUrl": "https://www.statnews.com/pharmalot/2026/07/27/hiv-resurgence-is-feared-as-global-fund-to-combat-the-disease-falls-18-percent/?utm_campaign=rss",
+    "date": "2026-07-27"
   },
   {
-    "id": "auto-Bio-1785179665535-0",
+    "id": "auto-Bio-1785203253381-1",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 리포트] STAT+: Pharma’s drug spending deflection",
@@ -84,7 +96,7 @@
     "date": "2026-07-27"
   },
   {
-    "id": "auto-Bio-1785179665535-1",
+    "id": "auto-Bio-1785203253381-2",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 리포트] STAT+: Pharmalittle: We’re reading about a U.S. peptide panel’s votes, Amgen scuffling with the FDA, and more",
@@ -94,17 +106,5 @@
     "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
     "originalUrl": "https://www.statnews.com/pharmalot/2026/07/27/fda-panel-peptide-votes-amgen-fights-tavneos-withdrawal/?utm_campaign=rss",
     "date": "2026-07-27"
-  },
-  {
-    "id": "auto-Bio-1785179665535-2",
-    "category": "Bio",
-    "source": "STAT News",
-    "titleKoran": "[STAT 리포트] FDA advisory panel narrowly rejects compounding of one peptide, backs two others",
-    "oneLineSummary": "바이오/제약 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 바이오/제약 산업 내에서 가장 주목받고 있는 이슈인 \"FDA advisory panel narrowly rejects compounding of one peptide, backs two others\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Robert F. Kennedy Jr. has lauded peptides and said he takes them himself....\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
-    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
-    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.statnews.com/2026/07/24/fda-peptide-compounding-panel-backs-epitalon-rejects-emideltide/?utm_campaign=rss",
-    "date": "2026-07-24"
   }
 ]
