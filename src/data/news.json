@@ -1,6 +1,18 @@
 [
   {
-    "id": "auto-AI-1785722419120-0",
+    "id": "auto-AI-1785749155106-0",
+    "category": "AI",
+    "source": "MIT Technology Review",
+    "titleKoran": "[MIT 분석] Here’s why AI agents lie and cheat to reach their goals",
+    "oneLineSummary": "인공지능(AI) 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
+    "context": "본 보도는 최근 인공지능(AI) 산업 내에서 가장 주목받고 있는 이슈인 \"Here’s why AI agents lie and cheat to reach their goals\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to h...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
+    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
+    "originalUrl": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+    "date": "2026-08-03"
+  },
+  {
+    "id": "auto-AI-1785749155106-1",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The Download: Montana’s new experimental drug rules",
@@ -12,7 +24,7 @@
     "date": "2026-07-31"
   },
   {
-    "id": "auto-AI-1785722419120-1",
+    "id": "auto-AI-1785749155106-2",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] Montana’s new “right to try” law can’t come soon enough for some",
@@ -24,19 +36,19 @@
     "date": "2026-07-31"
   },
   {
-    "id": "auto-AI-1785722419120-2",
-    "category": "AI",
-    "source": "MIT Technology Review",
-    "titleKoran": "[MIT 분석] Montana’s plan to become an experimental medical hub just pushed forward",
-    "oneLineSummary": "인공지능(AI) 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 인공지능(AI) 산업 내에서 가장 주목받고 있는 이슈인 \"Montana’s plan to become an experimental medical hub just pushed forward\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"As of this week in Montana, any biotech company with an experimental drug has a clear path to sellin...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "id": "auto-Robot-1785749155262-0",
+    "category": "Robot",
+    "source": "The Robot Report",
+    "titleKoran": "[Robot Report] Reimagine Robotics emerges from stealth with robots that ‘learn on the job’",
+    "oneLineSummary": "로봇 공학 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
+    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"Reimagine Robotics emerges from stealth with robots that ‘learn on the job’\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Reimagine Robotics, founded by former Google DeepMind Applied Robotics leaders, is developing system...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
     "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
     "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/",
-    "date": "2026-07-30"
+    "originalUrl": "https://www.therobotreport.com/reimagine-robotics-emerges-stealth-with-robotslearn-on-the-job/",
+    "date": "2026-08-03"
   },
   {
-    "id": "auto-Robot-1785722419261-0",
+    "id": "auto-Robot-1785749155262-1",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] Google DeepMind says Gemini Robotics 2 enables full body control",
@@ -48,7 +60,7 @@
     "date": "2026-08-02"
   },
   {
-    "id": "auto-Robot-1785722419261-1",
+    "id": "auto-Robot-1785749155262-2",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] Top 10 robotics stories of July 2026",
@@ -60,19 +72,7 @@
     "date": "2026-08-01"
   },
   {
-    "id": "auto-Robot-1785722419262-2",
-    "category": "Robot",
-    "source": "The Robot Report",
-    "titleKoran": "[Robot Report] FCC robot ruling shines a spotlight on U.S. policy; how next-gen AI can help warehousing",
-    "oneLineSummary": "로봇 공학 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"FCC robot ruling shines a spotlight on U.S. policy; how next-gen AI can help warehousing\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"OSARO’s Derek Pridmore says warehouse robots are advancing, but real-world safety and reliability st...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
-    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
-    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/fcc-robot-ruling-shines-spotlight-on-u-s-policy-how-next-gen-ai-can-help-warehousing/",
-    "date": "2026-07-31"
-  },
-  {
-    "id": "auto-Bio-1785722419360-0",
+    "id": "auto-Bio-1785749155338-0",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 리포트] STAT+: Michigan Supreme Court ruling allows probe into Lilly insulin pricing",
@@ -84,7 +84,7 @@
     "date": "2026-08-02"
   },
   {
-    "id": "auto-Bio-1785722419360-1",
+    "id": "auto-Bio-1785749155338-1",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 리포트] STAT+: Trump administration revises rebate pilot for 340B drug discount program, angering hospitals",
@@ -96,7 +96,7 @@
     "date": "2026-07-31"
   },
   {
-    "id": "auto-Bio-1785722419360-2",
+    "id": "auto-Bio-1785749155338-2",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 리포트] STAT+: Up and down the ladder: The latest comings and goings",
