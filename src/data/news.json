@@ -1,6 +1,6 @@
 [
   {
-    "id": "auto-AI-1785851419561-0",
+    "id": "auto-AI-1785871168701-0",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The Download: US robot restrictions, and ICE’s DNA grab",
@@ -12,7 +12,7 @@
     "date": "2026-08-04"
   },
   {
-    "id": "auto-AI-1785851419562-1",
+    "id": "auto-AI-1785871168702-1",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] Trump’s AI protectionism has come for robotics",
@@ -24,7 +24,7 @@
     "date": "2026-08-03"
   },
   {
-    "id": "auto-AI-1785851419562-2",
+    "id": "auto-AI-1785871168702-2",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The Download: reward hacking explained, and suspected Iranian cyberattacks",
@@ -36,7 +36,19 @@
     "date": "2026-08-03"
   },
   {
-    "id": "auto-Robot-1785851419661-0",
+    "id": "auto-Robot-1785871168883-0",
+    "category": "Robot",
+    "source": "The Robot Report",
+    "titleKoran": "[Robot Report] Humanoids won’t scale on factory floors until costs drop",
+    "oneLineSummary": "로봇 공학 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
+    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"Humanoids won’t scale on factory floors until costs drop\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"The race to commercialize humanoids is on. What’s left to prove is that humanoid robots can beat the...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
+    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
+    "originalUrl": "https://www.therobotreport.com/humanoids-wont-scale-on-factory-floors-until-costs-drop/",
+    "date": "2026-08-04"
+  },
+  {
+    "id": "auto-Robot-1785871168883-1",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] igus launches energy chain with 600-degree rotation for industrial robots",
@@ -48,7 +60,7 @@
     "date": "2026-08-03"
   },
   {
-    "id": "auto-Robot-1785851419661-1",
+    "id": "auto-Robot-1785871168883-2",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] HEBI Robotics earns NASA SBIR grant to fast track miniaturized actuators",
@@ -60,19 +72,31 @@
     "date": "2026-08-03"
   },
   {
-    "id": "auto-Robot-1785851419661-2",
-    "category": "Robot",
-    "source": "The Robot Report",
-    "titleKoran": "[Robot Report] Reimagine Robotics emerges from stealth with robots that ‘learn on the job’",
-    "oneLineSummary": "로봇 공학 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"Reimagine Robotics emerges from stealth with robots that ‘learn on the job’\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Reimagine Robotics, founded by former Google DeepMind Applied Robotics leaders, is developing system...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "id": "auto-Bio-1785871169009-0",
+    "category": "Bio",
+    "source": "STAT News",
+    "titleKoran": "[STAT 리포트] STAT+: Startup promising to scale custom CRISPR therapies abruptly scraps plans",
+    "oneLineSummary": "바이오/제약 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
+    "context": "본 보도는 최근 바이오/제약 산업 내에서 가장 주목받고 있는 이슈인 \"STAT+: Startup promising to scale custom CRISPR therapies abruptly scraps plans\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"The FDA, while promising flexibility in approving Baby KJ-type gene editing, still has set standards...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
     "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
     "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/reimagine-robotics-emerges-stealth-with-robotslearn-on-the-job/",
-    "date": "2026-08-03"
+    "originalUrl": "https://www.statnews.com/2026/08/04/aurora-therapeutics-ends-program-baby-kj-treatments-beam-therapeutics-jennifer-doudna/?utm_campaign=rss",
+    "date": "2026-08-04"
   },
   {
-    "id": "auto-Bio-1785851419714-0",
+    "id": "auto-Bio-1785871169010-1",
+    "category": "Bio",
+    "source": "STAT News",
+    "titleKoran": "[STAT 리포트] STAT+: Three biotechs with three news updates",
+    "oneLineSummary": "바이오/제약 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
+    "context": "본 보도는 최근 바이오/제약 산업 내에서 가장 주목받고 있는 이슈인 \"STAT+: Three biotechs with three news updates\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Gilead wins case over its HIV medicine, Eli Lilly to expand retatrutide access, and more biotech new...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
+    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
+    "originalUrl": "https://www.statnews.com/2026/08/04/biotech-news-gilead-wins-case-that-scrutinized-pace-of-drug-development/?utm_campaign=rss",
+    "date": "2026-08-04"
+  },
+  {
+    "id": "auto-Bio-1785871169010-2",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 리포트] STAT+: Pharmalittle: We’re reading about a Lilly access program, a Gilead court victory, and more",
@@ -82,29 +106,5 @@
     "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
     "originalUrl": "https://www.statnews.com/pharmalot/2026/08/04/lilly-expands-retatrutide-access-program-gilead-court-victory/?utm_campaign=rss",
     "date": "2026-08-04"
-  },
-  {
-    "id": "auto-Bio-1785851419714-1",
-    "category": "Bio",
-    "source": "STAT News",
-    "titleKoran": "[STAT 리포트] STAT+: The latest orphan drug exemptions may not be warranted, analysis finds",
-    "oneLineSummary": "바이오/제약 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 바이오/제약 산업 내에서 가장 주목받고 있는 이슈인 \"STAT+: The latest orphan drug exemptions may not be warranted, analysis finds\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"A new analysis questions the wisdom of a controversial provision in federal law that exempts so-call...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
-    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
-    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.statnews.com/pharmalot/2026/08/04/latest-orphan-drug-exemptions-may-not-be-warranted-analysis-finds/?utm_campaign=rss",
-    "date": "2026-08-04"
-  },
-  {
-    "id": "auto-Bio-1785851419714-2",
-    "category": "Bio",
-    "source": "STAT News",
-    "titleKoran": "[STAT 리포트] STAT+: California Supreme Court sides with Gilead in ‘duty’ to innovate case",
-    "oneLineSummary": "바이오/제약 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 바이오/제약 산업 내에서 가장 주목받고 있는 이슈인 \"STAT+: California Supreme Court sides with Gilead in ‘duty’ to innovate case\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"The California Supreme Court sided with Gilead Sciences in a closely watched case over whether the c...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
-    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
-    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.statnews.com/pharmalot/2026/08/03/california-supreme-court-sides-with-gilead-in-duty-to-innovate-case/?utm_campaign=rss",
-    "date": "2026-08-03"
   }
 ]
