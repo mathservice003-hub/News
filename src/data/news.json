@@ -1,6 +1,6 @@
 [
   {
-    "id": "auto-AI-1792012079229-0",
+    "id": "auto-AI-1792031497362-0",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The Download: faking blood and the future of batteries",
@@ -12,7 +12,7 @@
     "date": "2026-10-14"
   },
   {
-    "id": "auto-AI-1792012079229-1",
+    "id": "auto-AI-1792031497362-1",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The US military’s race to make fake blood",
@@ -24,7 +24,7 @@
     "date": "2026-10-14"
   },
   {
-    "id": "auto-AI-1792012079229-2",
+    "id": "auto-AI-1792031497362-2",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The Download: open model trade-offs and geothermal power’s promise",
@@ -36,19 +36,7 @@
     "date": "2026-10-13"
   },
   {
-    "id": "auto-Robot-1792012079469-0",
-    "category": "Robot",
-    "source": "The Robot Report",
-    "titleKoran": "[Robot Report] How ADI is helping robotics startups scale",
-    "oneLineSummary": "로봇 공학 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"How ADI is helping robotics startups scale\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Robotics businesses need help keeping up with innovations as they scale. Analog Devices Inc. or ADI ...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
-    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
-    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/how-adi-is-helping-robotics-startups-scale/",
-    "date": "2026-10-14"
-  },
-  {
-    "id": "auto-Robot-1792012079469-1",
+    "id": "auto-Robot-1792031497563-0",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] RoboBusiness 2026 panel to discuss reshoring with robots",
@@ -60,7 +48,7 @@
     "date": "2026-10-14"
   },
   {
-    "id": "auto-Robot-1792012079469-2",
+    "id": "auto-Robot-1792031497563-1",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] Timken Precision Drives puts the motion challenge first in humanoid robots",
@@ -72,7 +60,19 @@
     "date": "2026-10-14"
   },
   {
-    "id": "auto-Bio-1792012079740-0",
+    "id": "auto-Robot-1792031497563-2",
+    "category": "Robot",
+    "source": "The Robot Report",
+    "titleKoran": "[Robot Report] NYSOFA expands partnership with Intuition Robotics to bring ElliQ to more seniors",
+    "oneLineSummary": "로봇 공학 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
+    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"NYSOFA expands partnership with Intuition Robotics to bring ElliQ to more seniors\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"With the expansion, NYSOFA and Intuition Robotics established a new three-year, $2.1 million agreeme...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
+    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
+    "originalUrl": "https://www.therobotreport.com/nysofa-expands-partnership-intuition-robotics-bring-elliq-more-seniors/",
+    "date": "2026-10-13"
+  },
+  {
+    "id": "auto-Bio-1792031497801-0",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 리포트] STAT+: Trump administration delays new rule that could restrict imported medicines from Canada and overseas",
@@ -84,7 +84,7 @@
     "date": "2026-10-14"
   },
   {
-    "id": "auto-Bio-1792012079740-1",
+    "id": "auto-Bio-1792031497801-1",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 리포트] STAT+: FDA adcomm members’ ties to industry under scrutiny",
@@ -96,7 +96,7 @@
     "date": "2026-10-14"
   },
   {
-    "id": "auto-Bio-1792012079740-2",
+    "id": "auto-Bio-1792031497801-2",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 리포트] STAT+: Pharmalittle: We’re reading about Sanofi settling an EU antitrust probe, ‘pharma bro’ Shkreli, and more",
