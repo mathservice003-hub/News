@@ -1,6 +1,6 @@
 [
   {
-    "id": "auto-AI-1792836129254-0",
+    "id": "auto-AI-1792854400260-0",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The Download: testing six tech promises and biotech’s blind spots",
@@ -12,7 +12,7 @@
     "date": "2026-10-23"
   },
   {
-    "id": "auto-AI-1792836129254-1",
+    "id": "auto-AI-1792854400260-1",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] In the biotech world, you can’t see everything",
@@ -24,7 +24,7 @@
     "date": "2026-10-23"
   },
   {
-    "id": "auto-AI-1792836129254-2",
+    "id": "auto-AI-1792854400260-2",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] Designing an AI serving harness built to last",
@@ -36,7 +36,19 @@
     "date": "2026-10-22"
   },
   {
-    "id": "auto-Robot-1792836129387-0",
+    "id": "auto-Robot-1792854400385-0",
+    "category": "Robot",
+    "source": "The Robot Report",
+    "titleKoran": "[Robot Report] Eka Robotics raises $150M to scale its vision-force-action model for robots",
+    "oneLineSummary": "로봇 공학 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
+    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"Eka Robotics raises $150M to scale its vision-force-action model for robots\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Eka Robotics is building a vision-force-action, or VFA, model to develop an intuition of physics thr...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
+    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
+    "originalUrl": "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/",
+    "date": "2026-10-24"
+  },
+  {
+    "id": "auto-Robot-1792854400385-1",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] Webinar to discuss how the FCC robotics ruling affects automation buyers",
@@ -48,7 +60,7 @@
     "date": "2026-10-23"
   },
   {
-    "id": "auto-Robot-1792836129387-1",
+    "id": "auto-Robot-1792854400385-2",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] Generative Bionics to launch Physical AI Data Factory in Italy",
@@ -60,19 +72,7 @@
     "date": "2026-10-23"
   },
   {
-    "id": "auto-Robot-1792836129387-2",
-    "category": "Robot",
-    "source": "The Robot Report",
-    "titleKoran": "[Robot Report] Dream Labs raises $90M and launches Dream API",
-    "oneLineSummary": "로봇 공학 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"Dream Labs raises $90M and launches Dream API\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Dream Labs says its Dream-1 AI model works across robots from different manufacturers and will allow...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
-    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
-    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/dream-labs-raises-90m-and-launches-dream-api/",
-    "date": "2026-10-22"
-  },
-  {
-    "id": "auto-Bio-1792836129500-0",
+    "id": "auto-Bio-1792854400494-0",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 리포트] STAT+: Most cancer drugs approved by European regulators lack a high clinical benefit, analysis finds",
@@ -84,7 +84,7 @@
     "date": "2026-10-23"
   },
   {
-    "id": "auto-Bio-1792836129500-1",
+    "id": "auto-Bio-1792854400494-1",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 리포트] STAT+: Up and down the ladder: The latest comings and goings",
@@ -96,7 +96,7 @@
     "date": "2026-10-23"
   },
   {
-    "id": "auto-Bio-1792836129500-2",
+    "id": "auto-Bio-1792854400494-2",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 리포트] STAT+: Tango builds on Revolution Medicines’ pancreatic cancer success",
