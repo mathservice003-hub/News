@@ -1,6 +1,18 @@
 [
   {
-    "id": "auto-AI-1793209303524-0",
+    "id": "auto-AI-1793224899814-0",
+    "category": "AI",
+    "source": "MIT Technology Review",
+    "titleKoran": "[MIT 분석] Creating AI value with enterprise context",
+    "oneLineSummary": "인공지능(AI) 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
+    "context": "본 보도는 최근 인공지능(AI) 산업 내에서 가장 주목받고 있는 이슈인 \"Creating AI value with enterprise context\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for ...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
+    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
+    "originalUrl": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+    "date": "2026-10-28"
+  },
+  {
+    "id": "auto-AI-1793224899814-1",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The Download: dead startups fueling AI and interspecies communication",
@@ -12,7 +24,7 @@
     "date": "2026-10-28"
   },
   {
-    "id": "auto-AI-1793209303524-1",
+    "id": "auto-AI-1793224899814-2",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] Pairing industrial AI autonomy and human control",
@@ -24,19 +36,31 @@
     "date": "2026-10-28"
   },
   {
-    "id": "auto-AI-1793209303524-2",
-    "category": "AI",
-    "source": "MIT Technology Review",
-    "titleKoran": "[MIT 분석] The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-    "oneLineSummary": "인공지능(AI) 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 인공지능(AI) 산업 내에서 가장 주목받고 있는 이슈인 \"The Download: Anthropic’s IPO, smarter power grids, and exercise pills\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "id": "auto-Robot-1793224899978-0",
+    "category": "Robot",
+    "source": "The Robot Report",
+    "titleKoran": "[Robot Report] North American robot orders climb 24.8% in Q3 of 2026, says A3",
+    "oneLineSummary": "로봇 공학 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
+    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"North American robot orders climb 24.8% in Q3 of 2026, says A3\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Robot demand from automotive component manufacturers nearly doubled in Q3, as other sectors posted s...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
     "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
     "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-    "date": "2026-10-27"
+    "originalUrl": "https://www.therobotreport.com/north-american-robot-orders-climb-24-8-q3-2026-says-a3/",
+    "date": "2026-10-28"
   },
   {
-    "id": "auto-Robot-1793209303922-0",
+    "id": "auto-Robot-1793224899978-1",
+    "category": "Robot",
+    "source": "The Robot Report",
+    "titleKoran": "[Robot Report] What Symbotic’s Walmart growth teaches robotics startups about anchor customers",
+    "oneLineSummary": "로봇 공학 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
+    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"What Symbotic’s Walmart growth teaches robotics startups about anchor customers\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Symbotic’s growth with Walmart shows how an anchor customer can fund a robotics startup’s scale whil...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
+    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
+    "originalUrl": "https://www.therobotreport.com/what-symbotic-growth-with-walmart-teaches-robotics-startups-about-anchor-customers/",
+    "date": "2026-10-28"
+  },
+  {
+    "id": "auto-Robot-1793224899978-2",
     "category": "Robot",
     "source": "The Robot Report",
     "titleKoran": "[Robot Report] Warp Sciences emerges from stealth, to apply robotics to drug research",
@@ -48,31 +72,19 @@
     "date": "2026-10-28"
   },
   {
-    "id": "auto-Robot-1793209303922-1",
-    "category": "Robot",
-    "source": "The Robot Report",
-    "titleKoran": "[Robot Report] WorldOracle Tests Whether World Models Can Reliably Predict Real-World Executions",
-    "oneLineSummary": "로봇 공학 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"WorldOracle Tests Whether World Models Can Reliably Predict Real-World Executions\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"In one case showcased by WorldOracle, a robot's grasp missed, yet the world model predicted that the...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "id": "auto-Bio-1793224900121-0",
+    "category": "Bio",
+    "source": "STAT News",
+    "titleKoran": "[STAT 리포트] STAT+: Lawmaker wants government watchdog to probe TrumpRx over claims about drug savings",
+    "oneLineSummary": "바이오/제약 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
+    "context": "본 보도는 최근 바이오/제약 산업 내에서 가장 주목받고 있는 이슈인 \"STAT+: Lawmaker wants government watchdog to probe TrumpRx over claims about drug savings\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"A House lawmaker asked the Government Accountability Office to review whether the TrumpRx platform h...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
     "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
     "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/worldoracle-tests-whether-world-models-can-reliably-predict-real-world-executions/",
+    "originalUrl": "https://www.statnews.com/pharmalot/2026/10/28/lawmaker-wants-gao-probe-trumprx-drug-pricing/?utm_campaign=rss",
     "date": "2026-10-28"
   },
   {
-    "id": "auto-Robot-1793209303922-2",
-    "category": "Robot",
-    "source": "The Robot Report",
-    "titleKoran": "[Robot Report] ANYbotics begins delivering ANYmal X legged robot for explosive atmospheres",
-    "oneLineSummary": "로봇 공학 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"ANYbotics begins delivering ANYmal X legged robot for explosive atmospheres\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"ANYbotics has designed the ANYmal X inspection robot to comply with the strictest safety standards o...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
-    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
-    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/anybotics-begins-delivering-anymal-x-legged-robot-explosive-atmospheres/",
-    "date": "2026-10-27"
-  },
-  {
-    "id": "auto-Bio-1793209304039-0",
+    "id": "auto-Bio-1793224900122-1",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 리포트] STAT+: HHS moves to allow compounding of some unapproved peptides",
@@ -84,7 +96,7 @@
     "date": "2026-10-28"
   },
   {
-    "id": "auto-Bio-1793209304039-1",
+    "id": "auto-Bio-1793224900122-2",
     "category": "Bio",
     "source": "STAT News",
     "titleKoran": "[STAT 리포트] STAT+: Pharmalittle: We’re reading about 340B battles, new results for a Lilly weight loss drug, and more",
@@ -93,18 +105,6 @@
     "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
     "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
     "originalUrl": "https://www.statnews.com/pharmalot/2026/10/28/battles-over-340b-lilly-reports-weight-loss-drug-results/?utm_campaign=rss",
-    "date": "2026-10-28"
-  },
-  {
-    "id": "auto-Bio-1793209304039-2",
-    "category": "Bio",
-    "source": "STAT News",
-    "titleKoran": "[STAT 리포트] STAT+: Lilly’s triple-G drug beats Ozempic in head-to-head study",
-    "oneLineSummary": "바이오/제약 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 바이오/제약 산업 내에서 가장 주목받고 있는 이슈인 \"STAT+: Lilly’s triple-G drug beats Ozempic in head-to-head study\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Eli Lilly announced that its investigational drug retatrutide was more effective at lowering blood s...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
-    "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
-    "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.statnews.com/2026/10/28/biotech-news-lillys-triple-g-drug-beats-ozempic-in-head-to-head-study/?utm_campaign=rss",
     "date": "2026-10-28"
   }
 ]
