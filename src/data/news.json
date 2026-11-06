@@ -1,6 +1,6 @@
 [
   {
-    "id": "auto-AI-1793971777102-0",
+    "id": "auto-AI-1794004439081-0",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The Download: a humanoid cleans house and Samsung builds for the AI boom",
@@ -12,7 +12,7 @@
     "date": "2026-11-06"
   },
   {
-    "id": "auto-AI-1793971777102-1",
+    "id": "auto-AI-1794004439082-1",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
@@ -24,7 +24,7 @@
     "date": "2026-11-06"
   },
   {
-    "id": "auto-AI-1793971777102-2",
+    "id": "auto-AI-1794004439082-2",
     "category": "AI",
     "source": "MIT Technology Review",
     "titleKoran": "[MIT 분석] The Download: Texas’s fragile AI boom and energy policy shifts",
@@ -36,75 +36,75 @@
     "date": "2026-11-05"
   },
   {
-    "id": "auto-Robot-1793971777261-0",
+    "id": "auto-Robot-1794004439304-0",
     "category": "Robot",
     "source": "The Robot Report",
-    "titleKoran": "[Robot Report] How did Agility Robotics perform on its first day on the stock market?",
+    "titleKoran": "[Robot Report] How Point One turned GPS accuracy Into a robotics platform",
     "oneLineSummary": "로봇 공학 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"How did Agility Robotics perform on its first day on the stock market?\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Humanoid developer Agility Robotics ended its first day of trading on the Nasdaq just 2% above where...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"How Point One turned GPS accuracy Into a robotics platform\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Aaron Nathan explains how precise location technology like GPS is enabling robots to navigate, coord...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
     "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
     "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/how-did-agility-robotics-perform-on-its-first-day-on-the-stock-market/",
-    "date": "2026-11-05"
+    "originalUrl": "https://www.therobotreport.com/how-point-one-turned-gps-accuracy-into-robotics-platform/",
+    "date": "2026-11-06"
   },
   {
-    "id": "auto-Robot-1793971777261-1",
+    "id": "auto-Robot-1794004439304-1",
     "category": "Robot",
     "source": "The Robot Report",
-    "titleKoran": "[Robot Report] How Ambi Robotics helps its customers prepare for peak season",
+    "titleKoran": "[Robot Report] Boston Dynamics built Stretch Gen 2 for reliable, consistent performance",
     "oneLineSummary": "로봇 공학 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"How Ambi Robotics helps its customers prepare for peak season\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Ambi Robotics' co-founder and COO Stephen McKinley says the company is installing eight new systems ...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"Boston Dynamics built Stretch Gen 2 for reliable, consistent performance\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Brian Donnelly, the VP and GM of logistics robotics at Boston Dynamics, said the new version of Stre...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
     "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
     "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/how-ambi-robotics-helps-customers-prepare-peak-season/",
-    "date": "2026-11-05"
+    "originalUrl": "https://www.therobotreport.com/boston-dynamics-built-stretch-gen-2-for-reliable-consistent-performance/",
+    "date": "2026-11-06"
   },
   {
-    "id": "auto-Robot-1793971777261-2",
+    "id": "auto-Robot-1794004439304-2",
     "category": "Robot",
     "source": "The Robot Report",
-    "titleKoran": "[Robot Report] Chinese regulators block SoftBank’s $5.4B acquisition of ABB Robotics",
+    "titleKoran": "[Robot Report] Industry experts discuss China blocking SoftBank acquisition of ABB Robotics",
     "oneLineSummary": "로봇 공학 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"Chinese regulators block SoftBank’s $5.4B acquisition of ABB Robotics\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Chinese authorities blocked the deal over concerns about robot data being transferred overseas and u...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "context": "본 보도는 최근 로봇 공학 산업 내에서 가장 주목받고 있는 이슈인 \"Industry experts discuss China blocking SoftBank acquisition of ABB Robotics\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"China's prohibition of SoftBank's purchase of ABB Robotics reflects wider concerns about data and AI...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
     "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
     "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.therobotreport.com/chinese-regulators-block-softbanks-5-4b-acquisition-of-abb-robotics/",
-    "date": "2026-11-05"
+    "originalUrl": "https://www.therobotreport.com/industry-experts-discuss-china-blocking-softbank-acquisition-abb-robotics/",
+    "date": "2026-11-06"
   },
   {
-    "id": "auto-Bio-1793971777373-0",
+    "id": "auto-Bio-1794004439523-0",
     "category": "Bio",
     "source": "STAT News",
-    "titleKoran": "[STAT 리포트] STAT+: Pharma’s trade group spent heavily on search ads to sway public opinion",
+    "titleKoran": "[STAT 리포트] STAT+: Up and down the ladder: The latest comings and goings",
     "oneLineSummary": "바이오/제약 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 바이오/제약 산업 내에서 가장 주목받고 있는 이슈인 \"STAT+: Pharma’s trade group spent heavily on search ads to sway public opinion\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"PhRMA spent an estimated $59 million on search advertising over a recent seven-year period to influe...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "context": "본 보도는 최근 바이오/제약 산업 내에서 가장 주목받고 있는 이슈인 \"STAT+: Up and down the ladder: The latest comings and goings\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"From new hires to departures, promotions and transfers, here are the latest comings and goings in th...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
     "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
     "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.statnews.com/pharmalot/2026/11/05/phrma-blamed-pbms-high-drug-prices-search-ads/?utm_campaign=rss",
-    "date": "2026-11-05"
+    "originalUrl": "https://www.statnews.com/pharmalot/2026/11/06/pharma-biotech-jobs-ladder-pfizer-amgen-astrazeneca-novonordisk/?utm_campaign=rss",
+    "date": "2026-11-06"
   },
   {
-    "id": "auto-Bio-1793971777373-1",
+    "id": "auto-Bio-1794004439523-1",
     "category": "Bio",
     "source": "STAT News",
-    "titleKoran": "[STAT 리포트] STAT+: Novartis cites cases of previously unknown tumors possibly tied to its SMA gene therapy",
+    "titleKoran": "[STAT 리포트] STAT+: New tumor cases show common gene therapy tool can come with risk",
     "oneLineSummary": "바이오/제약 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 바이오/제약 산업 내에서 가장 주목받고 있는 이슈인 \"STAT+: Novartis cites cases of previously unknown tumors possibly tied to its SMA gene therapy\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Novartis has acknowledged seven previously unknown instances in which tumors were found in children ...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "context": "본 보도는 최근 바이오/제약 산업 내에서 가장 주목받고 있는 이슈인 \"STAT+: New tumor cases show common gene therapy tool can come with risk\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"New cases show AAV gene therapies like Zolgensma carry tumor risks, raising key concerns for SMA pat...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
     "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
     "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.statnews.com/pharmalot/2026/11/05/novartis-sma-zolgensma-tumor-case-reports/?utm_campaign=rss",
-    "date": "2026-11-05"
+    "originalUrl": "https://www.statnews.com/2026/11/06/novartis-zolgensma-gene-therapy-tumor-risk/?utm_campaign=rss",
+    "date": "2026-11-06"
   },
   {
-    "id": "auto-Bio-1793971777373-2",
+    "id": "auto-Bio-1794004439523-2",
     "category": "Bio",
     "source": "STAT News",
-    "titleKoran": "[STAT 리포트] STAT+: A possible comeback for a failed sickle cell gene therapy",
+    "titleKoran": "[STAT 리포트] STAT+: Amgen’s Repatha linked to fewer heart attacks",
     "oneLineSummary": "바이오/제약 시장의 지형을 바꿀 수 있는 핵심적인 기술적 진보와 전략적 변화를 담은 최신 소식입니다.",
-    "context": "본 보도는 최근 바이오/제약 산업 내에서 가장 주목받고 있는 이슈인 \"STAT+: A possible comeback for a failed sickle cell gene therapy\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Three years ago, a trial for a sickle cell gene-editing therapy a decade in the making ended abruptl...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
+    "context": "본 보도는 최근 바이오/제약 산업 내에서 가장 주목받고 있는 이슈인 \"STAT+: Amgen’s Repatha linked to fewer heart attacks\"에 대한 글로벌 트렌드를 분석하고 있습니다. 현재 이 분야의 글로벌 선두 기업들과 연구진은 해당 기술적 진보가 시장의 수익 구조와 운영 효율성에 미칠 파급력을 예의주시하고 있습니다. 특히 이번 소식은 \"Pithy intro text about the biopharma milieu.  Novartis cites more tumor reports after Zolgensma Nova...\"와 같은 실무적 난관을 해결할 수 있는 중요한 실마리를 제공하고 있다는 점에서 업계 전문가들의 높은 평가를 받고 있습니다. 향후 이 흐름이 지속될 경우, 단순한 기술 도입을 넘어 산업 전반의 표준 자체가 재정립될 가능성이 매우 높으므로 전략적 관점에서의 접근이 필요합니다.",
     "whyImportant": "이 변화가 중요한 이유는 해당 산업의 공급망(Supply Chain)과 데이터 주권, 그리고 사용자 경험의 혁신적 개선이라는 세 가지 핵심 축에 직접적인 영향을 미치기 때문입니다. 이는 장기적으로 기업의 핵심 경쟁 우위를 결정짓는 변곡점이 될 것입니다.",
     "meaningForWork": "실무자라면 이제 자사의 제품 로드맵에 해당 기술의 파급력을 즉각 반영해야 합니다. 특히 인프라 최적화 비용과 인적 자원 배분 전략을 재검토하여, 변화하는 시장 환경 속에서 기술적 선점 효과를 극대화할 수 있는 구체적인 실행 아키텍처를 마련해야 합니다.",
-    "originalUrl": "https://www.statnews.com/2026/11/05/biotech-news-a-possible-comeback-for-failed-sickle-cell-gene-therapy/?utm_campaign=rss",
-    "date": "2026-11-05"
+    "originalUrl": "https://www.statnews.com/2026/11/06/biotech-news-amgen-repatha-linked-to-fewer-heart-attacks/?utm_campaign=rss",
+    "date": "2026-11-06"
   }
 ]
